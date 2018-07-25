@@ -1,0 +1,1970 @@
+Package: qemu-system
+Architecture: aarch64
+Version: 2.11.0
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 57748
+Depends: glib, libandroid-support, libbz2, libcurl, libgnutls, liblzo, libnettle, libpixman, libpng, libsdl, libutil, ncurses, libssh2, libseccomp, libjpeg-turbo, libandroid-shmem
+Filename: dists/extras/main/binary-aarch64/qemu-system_2.11.0_aarch64.deb
+Size: 11214308
+MD5sum: 09e94bef7a60928debdf35ecffb6ac6a
+SHA1: 18aa957376044e87c6d73f3607a85b69d1669f97
+SHA256: 2c5e23f7fece8161888c83e0a0bf37e097277fdd2d1d7f1ef4cf3e39338545bd
+SHA512: 1e89f22b7c33a538e87908ebc82bf2ac5884841b70fd1ecf8ba20e72241b592e512b50ac3a229e931433aaac247f51f2444e1884408dce3005a72de37229928d
+Homepage: https://www.qemu.org
+Description: A generic and open source machine emulator and virtualizer
+
+Package: libsm-dev
+Architecture: aarch64
+Version: 1.2.1
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 28
+Depends: libsm
+Filename: dists/extras/main/binary-aarch64/libsm-dev_1.2.1_aarch64.deb
+Size: 4308
+MD5sum: 2b243053584df5c89f10fb59f77d0139
+SHA1: 2b2ebe38ccf5a8fbacca09405dbad1628964b001
+SHA256: eed2472924950031d071b75992576b7aef1acd3e0ad0019cc2b27aca00d529b1
+SHA512: d06b76e59a397b38e69c3b4ee760480048f6ce0dbbb45881d0c360adad35c476e89157fbbdfed41c09914c4a8143f759cdeb9a60b9f9ccd8d9dff99aea20b4eb
+Homepage: https://www.x.org
+Description: Development files for libsm
+
+Package: imlib2-dev
+Architecture: aarch64
+Version: 1.4.10
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 36
+Depends: imlib2
+Filename: dists/extras/main/binary-aarch64/imlib2-dev_1.4.10_aarch64.deb
+Size: 5284
+MD5sum: 78c9c178066abebac217b8575ced6d56
+SHA1: 2ee296389f00b8f0d774fe5d385d460e065be376
+SHA256: f7929d5727fb9dc4d7caee8dba966e95bda0137aede3764b64c6c8233d0aec93
+SHA512: 3f7aa74666d4adc337f5d21b4eace8174a9b3e9b551c673d761f5fb70f16633129f3ad1d4c99f0a15fd42821e5c081c31180c2f9d741087da44b6344292dabd9
+Homepage: http://sourceforge.net/projects/enlightenment/
+Description: Development files for imlib2
+
+Package: libxml-parser-perl
+Architecture: aarch64
+Version: 2.44
+Maintainer: Lokesh @hax4us
+Depends: perl, libexpat-dev
+Filename: dists/extras/main/binary-aarch64/libxml-parser-perl_2.44_aarch64.deb
+Size: 118996
+MD5sum: 93e6a6d5eecba0e925b6aca379c74cf4
+SHA1: 00e52742bf1167c301b34429b3eb07445188a658
+SHA256: 4924f663874e4d2d34dcfc2d05de0bb81ddbcb79d7e1e8af74b0fc2454015186
+SHA512: 3408eace51369b1267c447a9f638cacc0599d3f225291f6549cbbf06df91bd310f6df32d8ee4897b0148140336e741dfa007e1988bad5f29e6680d0d83a79d1c
+Description: The XML::Parser module is a Perl interface to James Clark's XML parser, Expat.
+
+Package: xbitmaps-dev
+Architecture: aarch64
+Version: 1.1.1
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 416
+Depends: xbitmaps
+Filename: dists/extras/main/binary-aarch64/xbitmaps-dev_1.1.1_aarch64.deb
+Size: 18248
+MD5sum: 3ccfd2b18beb7181e7bd8d3cb426c540
+SHA1: 0123d582a824d597853a90bd9f90ad28d03150bf
+SHA256: 899ff27bfa528f653f31309d80e7e59b8b4156a5995063baaac9a0063315d5c9
+SHA512: 4c00c730639e92de23d198742ce1dd8c0e6723324fa3632310c1bf92a3fcaed6eb252b32157e6889fdd7b600249af1e02fb1165b9873195dcb97daf8cc36af46
+Homepage: https://xorg.freedesktop.org/
+Description: Development files for xbitmaps
+
+Package: clang
+Architecture: aarch64
+Version: 5.0.0
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 41248
+Depends: libllvm
+Filename: dists/extras/main/binary-aarch64/clang_5.0.0_aarch64.deb
+Size: 8154588
+MD5sum: d7450a9645c6be8588710bcc117d33a7
+SHA1: 760a29434116c1434e43c8f2b73433ee9d8f0375
+SHA256: 4bb15a01b3beea4ea1cf6a9ec8c93da1d5c650e29baae76eb02e6ab2bd33b5a2
+SHA512: 96b3177266c6abba8894f120c1a0b0945bc158ded77b5449dd476412947c04b5d53a3fddd36a61ff8e9bd850d69544afaaa4e9671381ba10e9ce80c9c108814a
+Homepage: http://clang.llvm.org/
+Description: C language frontend for LLVM
+
+Package: libxcomposite
+Architecture: aarch64
+Version: 0.4.4
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 24
+Depends: libxfixes, x11-proto, xorg-util-macros
+Filename: dists/extras/main/binary-aarch64/libxcomposite_0.4.4_aarch64.deb
+Size: 2968
+MD5sum: df3a254ae4b45e427090bd353bbad16d
+SHA1: 6dfe7f0e93273cddce7d419b56e1af98ac750cc4
+SHA256: 47c351717c949b4afebce1ee2e33446e298db43c57abcaf28db2d5e73a84e5be
+SHA512: 45eda1ba608418ea5ef51fed1414db94795bc5f6934221551929363c8c5001201802be7eb15b8daa1344453198be1f9be49b6a549a03327291b9d07ab7648d00
+Homepage: https://www.x.org
+Description: X11 Composite extension library
+
+Package: libxft-dev
+Architecture: aarch64
+Version: 2.3.2
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 48
+Depends: libxft
+Filename: dists/extras/main/binary-aarch64/libxft-dev_2.3.2_aarch64.deb
+Size: 9396
+MD5sum: baba50a0b53016fe413705f2c17536de
+SHA1: f6da4556e86c1a1e54d33711b641cfcbd82ffff8
+SHA256: 86272400737c66415bf3f6a2774a835259898e45de49b2798a1dd24fe3a862ab
+SHA512: 426cc0507338fadcd72698acd5d8e2746872387d6a43cccd4aeeccf9ddf1767bcb75d45974d5f264fd7ba678ef2bd940c88708d3cb20f6a64bf3c705e072fbac
+Homepage: https://www.x.org
+Description: Development files for libxft
+
+Package: libcairo-x-dev
+Architecture: aarch64
+Version: 1.14.12
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 224
+Depends: libcairo-x
+Filename: dists/extras/main/binary-aarch64/libcairo-x-dev_1.14.12_aarch64.deb
+Size: 28088
+MD5sum: 3aaecb053f3d7b2815a43cf8ba28dbd4
+SHA1: 807993aa5d44575a9d923eeb6b68a8bd9ef91720
+SHA256: c416b44eff08d25d69f450cdff3ecc2b9b6a1722a242af24695cab2560c2d315
+SHA512: d0ce5f1cbe6260ca20232e203755d0ff390898f4f03a97310cf129a4b88aa459f7b661f2784e6f412ea1d796350ffebc2f4febc7fe99a6eac83cb236c91579bc
+Homepage: https://cairographics.org
+Description: Development files for libcairo-x
+
+Package: libxdamage-dev
+Architecture: aarch64
+Version: 1.1.4
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 8
+Depends: libxdamage
+Filename: dists/extras/main/binary-aarch64/libxdamage-dev_1.1.4_aarch64.deb
+Size: 2164
+MD5sum: 37a30da564281e06c0c2a19f960f0dd1
+SHA1: b7a325c435cabf13de23aa41ca32f93c2634e040
+SHA256: 45d9d126b6dcd7b0a207d9c58bd4c6213067b39e5136948c86a6e85825d24cac
+SHA512: 386cd54d12cbeb85ededdb0a43308f6b8062186826c23e1ff6052de045a8c5445f0ba8e66a5e557c15c83adf6bc40a2d588d89013e49efa0be33a7349c0f1ec1
+Homepage: https://www.x.org
+Description: Development files for libxdamage
+
+Package: xorg-server
+Architecture: aarch64
+Version: 1.19.6
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 1316
+Depends: libandroid-shmem, libx11, libxfont2, libxkbfile, libxau, libpixman, openssl, xorg-xkbcomp, libxinerama
+Filename: dists/extras/main/binary-aarch64/xorg-server_1.19.6_aarch64.deb
+Size: 475236
+MD5sum: 4c6452dc6b2cc83dc46ab939aaccdcdf
+SHA1: 51ee673008b2d1a26b1c1440b70d80deca725611
+SHA256: ead2216134c0c868608b87e1a60bfe4fe03087de168789f58d755a29b95e86dc
+SHA512: 817bc8dd8fe05328d7473f7093a853b89010c85915b41bee8fe2201cdf98c378868b34695f5b15c286dea3d93025ff05c5f197299c1def947e5054617918cf92
+Homepage:
+Description: FIXME:Add description
+
+Package: xtrans
+Architecture: aarch64
+Version: 1.3.5
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 220
+Filename: dists/extras/main/binary-aarch64/xtrans_1.3.5_aarch64.deb
+Size: 35836
+MD5sum: de42c87f09e80c55b840c2df87ee41d1
+SHA1: 04b809b6be3db653bd350b4d5d74c7d6a25ffa19
+SHA256: 09310b3f6cc812f570ecc4a14490f31028aa9ce747f2d3c47f6d22a2b830791e
+SHA512: 16260a2a54bff3a37669de2820c19d759a4383d1bf959d764aee9428dcd25eb4055386a2ec05190727d8aca78418af2bc454a4834f80ffc502f5c6657c0eb407
+Homepage: https://www.x.org
+Description: X transport library
+
+Package: lua51
+Architecture: aarch64
+Version: 5.1.5-2
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 248
+Depends: readline
+Filename: dists/extras/main/binary-aarch64/lua51_5.1.5-2_aarch64.deb
+Size: 60844
+MD5sum: bd51985a24fc220a990bcd67d1e87a20
+SHA1: 0e0eae11d995abce2c68e055210af970e20b90aa
+SHA256: 1a69d1fa00cf7e265c330a99f98c92609d7283774ed839e43863eb51bd7d7d6e
+SHA512: fd212da5bb48c6de372956a061c8bcb14fba9bc5e36ab27ffa3ea4bb27feabf92472b5cefc7d76355c37f43f07b8d6f195a22e229b9bb2745c3a10ae2974d697
+Homepage: https://www.lua.org/
+Description: Simple, extensible, embeddable programming language
+
+Package: libxfce4util-bin
+Architecture: aarch64
+Version: 4.12.1
+Maintainer: Lokesh @hax4us
+Filename: dists/extras/main/binary-aarch64/libxfce4util-bin_4.12.1_aarch64.deb
+Size: 49520
+MD5sum: 26ac26ff49a3494f704784bb71463731
+SHA1: d3e41e16041d5cb1bccec7ae0a96a1c70b520ca5
+SHA256: bd6bcefc5b09ee88ce7ff88438594bde99a5b0463a56e6dbe9ad1f20634b941f
+SHA512: 785aef6c954e0f61b07b2518ecf255e7d2b96603ad7f92a74be18e42c86f09865d1ba6094068ed303c7030edf8e7275e5c67ea9a481cbd97ec3bfcd7f389eb02
+Homepage: http://www.xfce.org/
+Description: tools for libxfce4util This package contains binaries used by Xfce basic utility library.
+ At the moment, the following programs are included:                                  - xfce4-kiosk-query: query Xfce kiosk capabilities.
+
+Package: libxfixes-dev
+Architecture: aarch64
+Version: 5.0.3
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 16
+Depends: libxfixes
+Filename: dists/extras/main/binary-aarch64/libxfixes-dev_5.0.3_aarch64.deb
+Size: 4200
+MD5sum: 0b88eeb5efed5a5a832cd90ecf5eee03
+SHA1: 62bc609414aad6d9bdcc09729bbcfd9de108a5e5
+SHA256: 1f069cf386283c26fc4ff56061297d518af3e9dfddb0d8206f64b927dbd3bf86
+SHA512: 37ae2058554a6691d1c6fd037898d24839ea03cdffb9c54414935dfb8b406b11c2a839b80b1ae575956bb942f0aed2da554814611e2629776de066807d2cf493
+Homepage: https://www.x.org
+Description: Development files for libxfixes
+
+Package: httrack-dev
+Architecture: aarch64
+Version: 3.49.2
+Maintainer: lokesh @hax4us
+Installed-Size: 168
+Depends: httrack
+Filename: dists/extras/main/binary-aarch64/httrack-dev_3.49.2_aarch64.deb
+Size: 23496
+MD5sum: fc644c5d76eb2f093ffb16007c418497
+SHA1: fd371cf1462ba6b6bbe98b90c40d99460abe98dc
+SHA256: 290c81173ecdfc8ceeeb07f30f28f217522f1abd5f25dc77aa420d296cfa1f21
+SHA512: 7ae0ee07cd22ce2668471f10cee30fe981b4fb0c8e908e088185693287352ca5fa0bf4fb7816eed719dce29d56af2284f2808bb54908c28185c37b22e1185432
+Homepage: http://www.httrack.com
+Description: Development files for httrack
+
+Package: libgtk2-dev
+Architecture: aarch64
+Version: 2.24.32
+Maintainer: Lokesh @hax4us
+Depends: libgtk2
+Filename: dists/extras/main/binary-aarch64/libgtk2-dev_2.24.32_aarch64.deb
+Size: 193596
+MD5sum: 948c376a968e683cee57835c3f4be4cc
+SHA1: d13cec4654c5d0b51353d8003d23d403fc78da5d
+SHA256: c504765216b73c5a01a9c33780ea6a7d37d63bb9a9b58e2067d00ceb29b5014c
+SHA512: 7648be1c2c282b171c08c056366be62322f29390f01d78692be6d946730fccf772596389b9ada8b8612fbc04bd5d98b118d60fad86694a98d0de666e4d4858bb
+Description: GTK+ graphical user interface library                                   GTK+ is a multi-platform toolkit for creating graphical user                        interfaces. Offering a complete set of widgets, GTK+ is suitable                    for projects ranging from small one-off tools to complete application               suites.                                   .                                         This package contains development files of gtk2.0 .
+
+Package: libxdamage
+Architecture: aarch64
+Version: 1.1.4
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 24
+Depends: libxfixes, x11-proto
+Filename: dists/extras/main/binary-aarch64/libxdamage_1.1.4_aarch64.deb
+Size: 3132
+MD5sum: de609a2c47fadd4b203efb99f8edc716
+SHA1: aa87ccf224c949e08d8646a0f102ffc4382d6822
+SHA256: d4f37df1e33184a2d9e08a6cdb20795ed74aa5063f3130d76e8d54d95d5168f2
+SHA512: 78a6563103e1da5d9b270a1d5a598bafc6840287e701260a660b386ff09058a6c8f7a0ecc6e903062990201dee30df5de14ddef2392818853e59ca875a677436
+Homepage: https://www.x.org
+Description: X11 damaged region extension library
+
+Package: libxcomposite-dev
+Architecture: aarch64
+Version: 0.4.4
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 64
+Depends: libxcomposite
+Filename: dists/extras/main/binary-aarch64/libxcomposite-dev_0.4.4_aarch64.deb
+Size: 5992
+MD5sum: eaf892ff3d9852eaf87649dc491e1738
+SHA1: ddafc65f93ee9722b007c10b29add3c3a3f42950
+SHA256: f19b183f8fe730527ceefa1a313de333ab985fa3fee95d91ff971d88253272f3
+SHA512: ab9181f844eb5011b7eb9557b772da68077864ae63be26a10b40ecaaeac778a53b820482255463a589dc29f8866aa62e3f93b8fa3477a148f0dec2b69be1efed
+Homepage: https://www.x.org
+Description: Development files for libxcomposite
+
+Package: libxshmfence-dev
+Architecture: aarch64
+Version: 1.2-1
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 8
+Depends: libxshmfence
+Filename: dists/extras/main/binary-aarch64/libxshmfence-dev_1.2-1_aarch64.deb
+Size: 1880
+MD5sum: d765d2b8684dd61e011c424460789f2b
+SHA1: 3a21588fb073f36407b3679a3c3e5324d4bd438f
+SHA256: ea1c08f31760707bd71f45653235e79429885cecb54c2d326e1816389e5411c6
+SHA512: 75e429231ec0747045eec6a27073916590c35241f0164815d80a84be2dd212d466ce2047796902b61b1e46197ea6b9879f471e31927e243a155c938f1ad8fa6b
+Homepage: https://www.x.org
+Description: Development files for libxshmfence
+
+Package: xcb-util-dev
+Architecture: aarch64
+Version: 0.4.0
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 36
+Depends: xcb-util
+Filename: dists/extras/main/binary-aarch64/xcb-util-dev_0.4.0_aarch64.deb
+Size: 3892
+MD5sum: 301729dddcc61f7b5dfa3f6efb903b5f
+SHA1: c7c37d8e9e28cdeda7f7c190e0755effd8a16421
+SHA256: 1b612077b64c0836b40d868d063c4316921ab4c3516bfdf53c720b25f966180f
+SHA512: 7c764bae4d1bda962c2392bae429d5cd98d8896eb4a0f22a76301e05697982049772b1e2b65dc53718baf68be516a2c63a9f9ab6268e53be851282e2b5f75328
+Homepage: https://xcb.freedesktop.org
+Description: Development files for xcb-util
+
+Package: libssh2-dev
+Architecture: aarch64
+Version: 1.8.0
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 756
+Depends: libssh2
+Filename: dists/extras/main/binary-aarch64/libssh2-dev_1.8.0_aarch64.deb
+Size: 41368
+MD5sum: 1833cd2b7e23ff0c0ff017af4605fe37
+SHA1: 67cf5c43cc1ab83315a1b744699def62678a8b4c
+SHA256: 09337f7c622123c6e93e9eea281f28077e6cad746ae624d93090544f411dab75
+SHA512: 7ebdee21ff42dc18f28867fb4284d3890569c7f9b5adadd120cafb2198a2cc61e9a3a7a6c98d4b34b68ebe962367be9eded418ca2c6fa61d1610dbb6f1e6d908
+Homepage: https://www.libssh2.org/
+Description: Development files for libssh2
+
+Package: libice-dev
+Architecture: aarch64
+Version: 1.0.8
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 52
+Depends: libice
+Filename: dists/extras/main/binary-aarch64/libice-dev_1.0.8_aarch64.deb
+Size: 7488
+MD5sum: d75f50f2cc5464e7cc5887e870b43fa8
+SHA1: 8f8257b07c4c63fd3e375b9dbe3d3ee78619a6b1
+SHA256: b2d9af25a4fd2ba894bc7d97f6406f3a1ab54b0069725a5e926e2963d47b3e52
+SHA512: eab499f6a292f14383f00f68781335ffe31791edc3604e17ed8a4092a71d9f143a94dd6e93d3a3f0cd8e03d7a34f3f71ca0b9e0d5173822c0db8df9869f6d792
+Homepage: https://www.x.org
+Description: Development files for libice
+
+Package: fltk
+Architecture: aarch64
+Version: 1.3.4-1
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 1496
+Depends: libjpeg-turbo, libxcursor, libxfixes, libxft, libxinerama, libxrender
+Replaces: fluid
+Filename: dists/extras/main/binary-aarch64/fltk_1.3.4-1_aarch64.deb
+Size: 471392
+MD5sum: fd61d4297622424f2be2659d15cb1367
+SHA1: 25598287922076c89d5e2a3271c4d55d2b7fb61d
+SHA256: 0c3e441d065787f1cbd6a883d952d65ead2cf16c26a5e7d3f2ce08beb304603d
+SHA512: 90f3c5b18c85833111cc62d2c8c985cb4f6ac43de9bcb7a0f71d3d3e0868cac4b1ca8dbb70172654032e8212799837b4f1091d8471dc20ca78fa87019cee6bab
+Homepage: http://www.fltk.org/
+Description: Graphical user interface toolkit for X
+
+Package: libfontenc-dev
+Architecture: aarch64
+Version: 1.1.3
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 12
+Depends: libfontenc
+Filename: dists/extras/main/binary-aarch64/libfontenc-dev_1.1.3_aarch64.deb
+Size: 3120
+MD5sum: 85c95a2b831ff5237b3eab40335b9579
+SHA1: 791bce447e5aae5e80e112a5edde95714689aca6
+SHA256: 69d30f19256012448e0e88f32746b0f6dc4828329d0a2d3778e739da50effb27
+SHA512: 63f31925e4103eb9ddafe5cdc32ea76074de4138dcfe6bc230f20105f018f909a106681533e54b919e0c47fa0c94a58d13662a07630af944b1d0605fea6f4f9d
+Homepage: https://www.x.org
+Description: Development files for libfontenc
+
+Package: wireless-tools-dev
+Architecture: aarch64
+Version: 30pre9
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 60
+Depends: wireless-tools
+Filename: dists/extras/main/binary-aarch64/wireless-tools-dev_30pre9_aarch64.deb
+Size: 17284
+MD5sum: 5b6d3bfd3d40a2213758b624af483a13
+SHA1: 386a3fa7ebbc4d7aab5e44e747d282135b987a6e
+SHA256: 13fe6c27a7afde1fdfaf8969a82655c81eba4633c089932951130fdf0e3d0bd1
+SHA512: 49377eeda0a45baa33be8c2c9fa0f8f393bb27c94f81d7bbe49efae7d0727b2042a576522e9e8103527c02935a03c6ee9664afaf757a043875bbeb627d093c3a
+Homepage: https://hewlettpackard.github.io/wireless-tools/Tools.html
+Description: Development files for wireless-tools
+
+Package: libxt-dev
+Architecture: aarch64
+Version: 1.1.3
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 1672
+Depends: libxt
+Filename: dists/extras/main/binary-aarch64/libxt-dev_1.1.3_aarch64.deb
+Size: 79032
+MD5sum: 8fc68084f225107765f3f3b82695a5e4
+SHA1: 35ede9afc093a0cca0625a8b1907573fc5695e9f
+SHA256: 8fd613a3e57e6892c70a9ba89270a9b9fc4ab412b132eebeffd960a32b3d7126
+SHA512: c3a7fe6dd24eac7a8ace313d2c996f39998dd9bea3b6a6975843694fdb61b032ae29eebf863c8897156c7e834aee1021e09a39d0279f86ccb1891d9dcec4e9cd
+Homepage: https://www.x.org
+Description: Development files for libxt
+
+Package: libxmu-dev
+Architecture: aarch64
+Version: 1.1.1
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 120
+Depends: libxmu
+Filename: dists/extras/main/binary-aarch64/libxmu-dev_1.1.1_aarch64.deb
+Size: 11996
+MD5sum: d9f13a716035034075c59f045658955f
+SHA1: 4ad7721ea353bb4bdb3556707e719181febfd38e
+SHA256: 728bcf6e56dc475905d718571200055d8ed18c8679b6e551380c724e8aa93db5
+SHA512: 91581e32bac75e6bf95ba5b9b05380cd89d664448b93d912fa611fd46702bef3a65b249164dcd91b0dd9151b224517e5389c6d5031ba91756c39a6d264baba3c
+Homepage: https://www.x.org
+Description: Development files for libxmu
+
+Package: libxaw
+Architecture: aarch64
+Version: 1.0.13
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 652
+Depends: libxmu, libxpm, xorg-util-macros
+Filename: dists/extras/main/binary-aarch64/libxaw_1.0.13_aarch64.deb
+Size: 146016
+MD5sum: 4144595dec5250d66f16e2895c1201f8
+SHA1: d0c5b04d95cc0fdf1d61755e433d0bfcce0a97d6
+SHA256: 2277b91c8549c11d24103e69e64cde11b5da14ae12ff87c6587f23d06900f369
+SHA512: 736773f29c5daaaeca712cd47136234dfea7ef388eab82101e995b632cf8555b29a40621ebbcfcc569a5c3d183d5d62d52c28704cd9012cd3be8c9731ef160c3
+Homepage: https://www.x.org
+Description: X11 Athena Widget library
+
+Package: libxpm-dev
+Architecture: aarch64
+Version: 3.5.12
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 20
+Depends: libxpm
+Filename: dists/extras/main/binary-aarch64/libxpm-dev_3.5.12_aarch64.deb
+Size: 5064
+MD5sum: 5ffddc614e18ac71afcbb0cf54c07e16
+SHA1: 77b96ac10169b5a29bc8c047fde4f83c536d4d50
+SHA256: 119094602b6673a41aa8437ce810e2ae3577616bbde9c84124fac5418adccbc0
+SHA512: bd45a6c9f98d3197787be1002033b84b61c2c350bbfc3d0812e033d0ae3d7e607ac0faf6e915314caf660b1c51a9f3adb74a7b67838ca88f7b2ae26c3aab3674
+Homepage: https://www.x.org
+Description: Development files for libxpm
+
+Package: libxft
+Architecture: aarch64
+Version: 2.3.2
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 76
+Depends: libxrender, fontconfig
+Filename: dists/extras/main/binary-aarch64/libxft_2.3.2_aarch64.deb
+Size: 23676
+MD5sum: e96ba83238b1d9d372cadef8b5b0b900
+SHA1: ac1d6ca4b3e37605b0785abf7fc211b1c5cdb73a
+SHA256: c18ca4772b454199e67ad51b96fd6d29760de35161a818510d356ec6c2d68f82
+SHA512: 6ce021a62c9446ec2a74a52bc9475fa18b7ccf5d031346dbe01132f524ede9fc54497396152fb1815bf008a733b5967bc69e6501c1e626e28dbb968b0127622c
+Homepage: https://www.x.org
+Description: FreeType-based font drawing library for X
+
+Package: thunar
+Architecture: aarch64
+Version: 1.7.0
+Maintainer: Lokesh @hax4us
+Installed-Size: 9812
+Depends: libxfce4ui, libexo, libgtk3
+Filename: dists/extras/main/binary-aarch64/thunar_1.7.0_aarch64.deb
+Size: 1671272
+MD5sum: a42d30f6e3efc95b13edcd9109f68274
+SHA1: 1d91cb98f28c814641cb5d83fe00fb84665683fe
+SHA256: f7c945d37c93207ae764754902b455e986acccb971e746331c48ce7e963f44af
+SHA512: 9fcd412ec2f7f101e18182d5465da153557bd1c75e36e1d1e289fcbe4293ebe28895455997c13ca27a9c4370bbdf4083a226684e7a91db6112cab46f509725c4
+Description: Thunar is the Xfce file manager, a GTK+ 2 GUI to organise the files on your computer.
+
+Package: wireshark
+Architecture: aarch64
+Version: 2.2.1
+Priority: optional
+Maintainer: lokesh @hax4us
+Depends: libnl, openssl, libpcap, libpcap-dev, libcrypt, libgcrypt-dev, glib, glib-dev, libgtk3, libgtk3-dev, liblua, liblua-dev, libgnutls, libgnutls-dev, gdk-pixbuf, gdk-pixbuf-dev, libatk, libatk-dev, libcairo-x, libcairo-x-dev, adwaita-icon-theme, hicolor-icon-theme, glib-bin, libepoxy, libepoxy-dev, pangoxft, pangoxft-dev, libxcb, libxcb-dev, libxau, libxau-dev, libx11, libx11-dev, libpng, libpng-dev, freetype, freetype-dev, libpixman, libpixman-dev, libxcomposite, libxcomposite-dev, libxext, libxext-dev, libxfixes, libxfixes-dev, libxft, libxft-dev, libxi, libxi-dev, libxinerama, libxinerama-dev, libxrender-dev
+Filename: dists/extras/main/binary-aarch64/wireshark_2.2.1_aarch64.deb
+Size: 31205468
+MD5sum: 2cf6be961769cce4f8375390c8ad59b2
+SHA1: 25d579920c3d8b152011b7cd692463e8b165aedd
+SHA256: 553fa2455b5d8b868f9a15e814d9a3ae99387f54157dd81a3ae295b1a90c007c
+SHA512: 8ad670759715e0f62b6eca526c5bfd878bfb18938ec2e667f002290fe50b37135b0f6715eb089e36dc80704e5fb8105ca7eda2a0b12938f4f539a72a5861561b
+Description: network protocol analyzer and sniffer
+
+Package: libepoxy-dev
+Architecture: aarch64
+Version: 1.4.0-2
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 1564
+Depends: libepoxy
+Filename: dists/extras/main/binary-aarch64/libepoxy-dev_1.4.0-2_aarch64.deb
+Size: 114344
+MD5sum: 8fc80622a38a7340ea11cbf09fa961a7
+SHA1: 741f45a9c3b757b2585061de1565f761a6453683
+SHA256: 2edb31046e0d6fe11e6ee9dd17363c0db2ca8287133919deee767eef42caa1c2
+SHA512: 296d209c08b4c421d683c30ce160209c6151644a3d5e732cfb79e0837277a12df19914181f96c5cbff0a7cb27c43883fdfe39a36d50c83e71f6af49ddbaa1a62
+Homepage: https://github.com/anholt/libepoxy
+Description: Development files for libepoxy
+
+Package: giflib-dev
+Architecture: aarch64
+Version: 5.1.4
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 16
+Depends: giflib
+Filename: dists/extras/main/binary-aarch64/giflib-dev_5.1.4_aarch64.deb
+Size: 4108
+MD5sum: abca42df3f9a28f7769a3d347ae72101
+SHA1: 657534f7ec7b02f5ab08003c1247c84e48199e2a
+SHA256: 99e3b872e5e6f94b4890e7355ca267da895d58eeb7ae0ba8aaac06e8ffb9363f
+SHA512: bd11977c75a3ce8fdede0e6aff8ee87e8d87b2238a8227611a53c43748d01745f4c620d48bd42639fcb8188ad4fdbcd44bf2553c664767df584e2b392a7e839f
+Homepage: http://sourceforge.net/projects/giflib/
+Description: Development files for giflib
+
+Package: fltk-dev
+Architecture: aarch64
+Version: 1.3.4-1
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 1188
+Depends: fltk
+Filename: dists/extras/main/binary-aarch64/fltk-dev_1.3.4-1_aarch64.deb
+Size: 176908
+MD5sum: 9dfa3638b2edd0aedb8c6b62147c8ec0
+SHA1: 9a3353117a94a779b7244fd2b3098a6d2d68893b
+SHA256: 9d4ff896bddc7236b8ef2b2c6b28ddcae635dd82f618050292c772fc6b227b59
+SHA512: fab8e9ab519e1ae94d1b713ea32a981af604314a3a629c7ae2ce4e79bec1b894ab1800c53f70985c0dd300905198580eb8be159f7c2c301815d39d9f246de1ec
+Homepage: http://www.fltk.org/
+Description: Development files for fltk
+
+Package: imlib2
+Architecture: aarch64
+Version: 1.4.10
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 1064
+Depends: freetype, giflib, libandroid-shmem, libbz2, libjpeg-turbo, libpng, libtiff, libxext, libid3tag
+Filename: dists/extras/main/binary-aarch64/imlib2_1.4.10_aarch64.deb
+Size: 454832
+MD5sum: ba389fe293330bb8f0f35116941b7ebc
+SHA1: f463a12c82ad510a3ef0dac9010242f34bf9ba6e
+SHA256: 3cb2ff351d71371516e4bba6796e1cf5f4e3b0736ae00fc3a28e2d797509f685
+SHA512: c7f91324d7c16e865711dad2f7c54134a324f35eea1e49a79d2766de19466f62b5cda1f36d431a57665a49a8d855a3a02e341c31ae372a4f2ff797524ea88192
+Homepage: http://sourceforge.net/projects/enlightenment/
+Description: Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support
+
+Package: startup-notification
+Architecture: aarch64
+Version: 0.12
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 44
+Depends: libx11, xcb-util
+Filename: dists/extras/main/binary-aarch64/startup-notification_0.12_aarch64.deb
+Size: 9744
+MD5sum: 8a4697498abd44a703c9c09b3227fcb3
+SHA1: 1fdd7726eb8980604b10f5ff346d46d0178194d9
+SHA256: 4f6b860ea182fd452fabb98317885f8d3d0af346a57e448b28641fa74fb530fd
+SHA512: 18b7407cd575a936abf05d2a0ce5176039f3371ad160eac3f02815b784161677d29eaab6493d7839654d64fac59b1cfcee3f2f99c4f41899ba457fffad263e04
+Homepage: https://www.freedesktop.org
+Description: Utility libraries for XC Binding
+
+Package: xfce4-terminal
+Architecture: aarch64
+Version: 0.8.6
+Maintainer: Lokesh<lokesh@hax4us>@hax4us
+Depends: libatk, libcairo-x, gdk-pixbuf, glib, libgtk3, pangoxft, libvte, libx11, libxfce4ui, libxfce4util
+Filename: dists/extras/main/binary-aarch64/xfce4-terminal_0.8.6_aarch64.deb
+Size: 391336
+MD5sum: c55a26d5e04d44c541aba49d0257bd58
+SHA1: 7059192f8391dfe13fcda5bd7b5c7fbcd236c44b
+SHA256: 20c2e0bf3039c6a2bc2443608ef4156d1e70fdc94c83448946b4be388e8094c6
+SHA512: 43c78459983790dc884be37031439a9ca0763c070954c24dc98f0144d6905aaf89ca5670238df09a4c2d3c9cd179c990de4d03c8e427817c6fb4f2c5ffc756c8
+Homepage: http://www.xfce.org/
+Description: Xfce terminal emulator        This package contains Terminal, which is a lightweight and easy to use              terminal emulator for X11. It was created to fit nicely into the Xfce               desktop environment, but it also fits nice with other environments.                 .                                         For people who already know GNOME 2 terminal and are searching for a                lighter but comparable replacement, Terminal
+
+Package: openbox-dev
+Architecture: aarch64
+Version: 3.6.1-6
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 116
+Depends: openbox
+Filename: dists/extras/main/binary-aarch64/openbox-dev_3.6.1-6_aarch64.deb
+Size: 13436
+MD5sum: 4be9c11d5661cd44db15ee96ab4a282c
+SHA1: fb1a1cb203176fe650033de21a4e539de9aa147e
+SHA256: 536c661e4228337eaa73e642692fd171ea33e639c5d70be44c36b1170178c786
+SHA512: 5c8d93f4287fc04274b5f6992cb9f23bb1cdb826c269417a5ec78e145ea3d3bad14b48598b7e770204675406d7a3e5810e3cfe7fd6e1df0d4fbc20a142c617ca
+Homepage: http://openbox.org
+Description: Development files for openbox
+
+Package: wireless-tools
+Architecture: aarch64
+Version: 30pre9
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 316
+Filename: dists/extras/main/binary-aarch64/wireless-tools_30pre9_aarch64.deb
+Size: 61864
+MD5sum: ea11908026a693f3b34eb913ee445e85
+SHA1: 5e22d8eec377496dee420f961e3575e0894378e3
+SHA256: c6c006cfc8101845c75cd467d8f0562652b3a0be4bfdaceda7cb045fee2a4e6b
+SHA512: 322036b92bca9b816927b046e70607cd402c8e5e64fc72336347bfba1dc6b4124db28935daf9fd3257ef2933012a1627b8c8166e6f7b5767b000ddc1ae398516
+Homepage: https://hewlettpackard.github.io/wireless-tools/Tools.html
+Description: Tools allowing to manipulate the Wireless Extensions
+
+Package: libxfont2-dev
+Architecture: aarch64
+Version: 2.0.3
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 12
+Depends: libxfont2
+Filename: dists/extras/main/binary-aarch64/libxfont2-dev_2.0.3_aarch64.deb
+Size: 3044
+MD5sum: c2b896a299023112b3ec8973563f321a
+SHA1: 972d83a2317b509e2340cc1bc200eadafff571cb
+SHA256: cf5e01cba10ce6a467214753161c2eb78276698fc1fdf5628b6135c401a6b7a6
+SHA512: 8b37262fbf809334bd715be7249411ce66e2a6470c3e670f7be18bcc85eb1ff1503c994f260f27fae95a86405ab9a589daf517275da0bc6978c5e3aefa9133c8
+Homepage:
+Description: Development files for libxfont2
+
+Package: libxshmfence
+Architecture: aarch64
+Version: 1.2-1
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 20
+Filename: dists/extras/main/binary-aarch64/libxshmfence_1.2-1_aarch64.deb
+Size: 2572
+MD5sum: b4ca4897e61de933bdb8012735c93d5b
+SHA1: ff01db8c213c0f03e192413bfcf37b39ab99157c
+SHA256: d0e89d1e0d619e4eddbdd31cf94f286376eb74d31d07fce4558551ca19feae85
+SHA512: 094c2f17e972efa549d65b7d84cab86d07aa305e65ea8b6d193cc83a90c81d9d2f49f0ebfb6012dc1d5da3e5aedf9eee6df9a5368c1c4695f74363248945cbbf
+Homepage: https://www.x.org
+Description: FIXME:Add description
+
+Package: liblua51
+Architecture: aarch64
+Version: 5.1.5-2
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 148
+Filename: dists/extras/main/binary-aarch64/liblua51_5.1.5-2_aarch64.deb
+Size: 49620
+MD5sum: 40a3ad44b6ab2bb229dd6346f8d88193
+SHA1: 977f598083d56f9eea081c05d7ed574ce1b3002b
+SHA256: b2018612b570d32a05cfb8f3fce13ab27ba544f9f44bd8add629fdbc8278f0a7
+SHA512: 6bc8e9f399a66c802c95f54d413fe9b7e6c31aa2973e8d5d43400c395e9457e1f293b87d4b0b86acae49b19ca6cdc41c26c04da40597c2c143c6138159adaeba
+Homepage: https://www.lua.org/
+Description: Shared library for the Lua interpreter (v5.1)
+
+Package: libxrender
+Architecture: aarch64
+Version: 0.9.10
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 44
+Depends: libx11, x11-proto
+Filename: dists/extras/main/binary-aarch64/libxrender_0.9.10_aarch64.deb
+Size: 10472
+MD5sum: 50ace4f330decbfcb8fbec9f26e75aa4
+SHA1: 0b911c09a177a7ab685f587b185576b4f0e30ef5
+SHA256: 80ef60cee728404bdb74d240a5a9a50a1bf0f9710b1c9f6816ee47eb4536caeb
+SHA512: 75c3ee4473c5b1725c1f9b6b1d46354c7e43e3d61a5af4d80b5792f15c55497d99288bf004b98876265a868d2477541888a163bf1efe6ad04dfb1cc66c85450d
+Homepage: https://www.x.org
+Description: X Rendering Extension client library
+
+Package: libxfce4util-common
+Architecture: all
+Version: 4.12.1
+Maintainer: Lokesh @hax4us
+Filename: dists/extras/main/binary-aarch64/libxfce4util-common_4.12.1_aarch64.deb
+Size: 46056
+MD5sum: 47c60f4da5267cb9214fbd6143030071
+SHA1: ae6c6d2a2ec38b744d5d3b0731d97df215980e72
+SHA256: a14acd066e05887509efba28975cb111f218832f57bebeea50c3146dc2ec9eb6
+SHA512: 5c618c7991ab1c1b01a4541abbac5f290e6a7b8eda21821a133f71b6c3f89492eb0c63831917c43b4b7144f1d11c8fd7c77e64a619badbababfc7d184ad36675
+Homepage: http://www.xfce.org/
+Description: common files for libxfce4util
+ This package contains various infrastructure-independant common files for
+  libxfce4util, the Xfce utility library.
+
+Package: libllvm
+Architecture: aarch64
+Version: 5.0.0
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 19324
+Depends: binutils, ncurses, ndk-sysroot, ndk-stl
+Conflicts: gcc, clang (<< 3.9.1-3)
+Replaces: gcc
+Filename: dists/extras/main/binary-aarch64/libllvm_5.0.0_aarch64.deb
+Size: 4515632
+MD5sum: 13e09bf481f7a550d388ae3498ff3038
+SHA1: f2b9217c11724c7931205f2fe6972c2097b2a68c
+SHA256: aa697ebee097a2abefc6d32a266cb14d3cb3bac3afdcab983966ff3822c7e6a9
+SHA512: e0a1b5d82b0ea58d58d7abf2ec463f5d617883c02273029375314fef4dc8b2c50f1fca5b71da78c19b39b0fb3a278c035e6e4b9b0c4468bb1e2db25479cbe082
+Homepage: http://clang.llvm.org/
+Description: Modular compiler and toolchain technologies library
+
+Package: libvte
+Architecture: aarch64
+Version: 0.50.2
+Maintainer: Lokesh<lokesh@hax4us.com> @hax4us
+Depends: fontconfig, freetype, gdk-pixbuf, glib, libgtk3, libcairo-x, pangoxft, libx11
+Filename: dists/extras/main/binary-aarch64/libvte_0.50.2_aarch64.deb
+Size: 406452
+MD5sum: 441fb998ec649fb35c777e66ec61f48a
+SHA1: 57ccc37d79c58c2811422552b991ecb7d6d772dd
+SHA256: b573eaa0c2f57236a7802335e96ab77fe5f66506c991143d1721c29be01f59d8
+SHA512: 3c3a0e11bf71bbbf952748999a5300aa9a2f97a6efdf5701a18d6d9d2f9c13a2dacd0efb53211f1b8a80d64ce7fc5a79decc1a172786856b50f35d727c989427
+Homepage: http://www.xfce.org/
+Description: Terminal emulator widget for GTK+ 3.0 - runtime files                   The VTE library provides a terminal emulator widget VteTerminal for                 applications using the GTK+ toolkit. It also provides the VtePTY object             containing functions for starting a new process on a new                            pseudo-terminal and for manipulating pseudo-terminals.
+
+Package: libxau-dev
+Architecture: aarch64
+Version: 1.0.8
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 48
+Depends: libxau
+Filename: dists/extras/main/binary-aarch64/libxau-dev_1.0.8_aarch64.deb
+Size: 4252
+MD5sum: b87418856c73d234f8e7e7216c7886c1
+SHA1: 681fb5248c1b19fc165798037f7730c891556f2b
+SHA256: 3e73335ed7190d18a340ccf62878882a7b511fd89bac0938f5711d9281979923
+SHA512: 59aec534a0845fc172877db160c078c35b182e5cffd3801f5100383bc0020017c77262d2498e1773493463033aceef708cfccc06ff60733868b24045f1f0b18d
+Homepage:
+Description: Development files for libxau
+
+Package: pangoxft
+Architecture: aarch64
+Version: 1.40.13-1
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 476
+Provides: pango, pango-x
+Depends: fontconfig, glib, harfbuzz, libcairo-x, libxft
+Conflicts: pango, pango-x, pango-dev
+Replaces: pango, pango-x
+Filename: dists/extras/main/binary-aarch64/pangoxft_1.40.13-1_aarch64.deb
+Size: 125680
+MD5sum: 46cd4b220c5e4f3be39b6de81b96d2d2
+SHA1: befb27d0d70721f146e7193b5dca4ba1e578b3f2
+SHA256: 5056b9292a964f46dfdf2d26047ab85cab527efe9144f240a8b4c2a214c33327
+SHA512: bc680b11cdc15478a6ead4a4f00a11a7f63a27b9050e21c75cfddb378907cb52ff312a93dabeba9d8953c042df56a519665f95636525783ca881c0aeb90fdbe0
+Homepage: http://www.pango.org/
+Description: Library for laying out and rendering text (with X)
+
+Package: giflib
+Architecture: aarch64
+Version: 5.1.4
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 248
+Filename: dists/extras/main/binary-aarch64/giflib_5.1.4_aarch64.deb
+Size: 40956
+MD5sum: f84a2286b7c04f682640ee969add4dc1
+SHA1: 297ef900f490294bf50e9d821e289242eaf7d9bf
+SHA256: 9ea3b486741617958629c5fe0ac7c40df2b575c9fb232de8d3d803e055418606
+SHA512: 3dbc4381f7dfef56abe9c88e289f5513d1aabb80bd27a68675cab46f1d6bd09707a91645da9f52f91a979c317bfb2891840dee8b1c365198b267b2d647063365
+Homepage: http://sourceforge.net/projects/giflib/
+Description: A library for reading and writing gif images
+
+Package: libxcb-dev
+Architecture: aarch64
+Version: 1.12
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 11192
+Depends: libxcb
+Filename: dists/extras/main/binary-aarch64/libxcb-dev_1.12_aarch64.deb
+Size: 239872
+MD5sum: b116cf2643611439cef694920d534e7b
+SHA1: 12433709e11b107d55d9c3675f7b9e40c1d952cf
+SHA256: 79ca631dc12bac981e0bbbaba98cb78b7372da1aef3650c0d76dcc96a839cff4
+SHA512: 0c97f3c9b19b9dbd42d10bf161769bd63211f47228e28f662bfc55e467d2f1eba2a527f2983d33720d67114be3d40762c0301aeda7ca861c2a1fbbf1cbf42998
+Homepage:
+Description: Development files for libxcb
+
+Package: libxkbfile
+Architecture: aarch64
+Version: 1.0.9
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 128
+Depends: libx11, xorg-util-macros
+Filename: dists/extras/main/binary-aarch64/libxkbfile_1.0.9_aarch64.deb
+Size: 43804
+MD5sum: ca42b5a4a7cedad097b74270028dedc4
+SHA1: 240ed224f809b7cbd2165a4b14ab1bbf9027d7b3
+SHA256: f8940d04970d9fdbf0a48a678d5656c39191f243768b35cd4d3e1dbaf4f255eb
+SHA512: 137a22593cb551b8de8da04aa78522357376d1a0476613bd78fbe2257d09d08093734a193fa345ea030b0925828d6390424935a53dfda70e2de23dd775aa80e5
+Homepage:
+Description: X11 keyboard file manipulation library
+
+Package: libvte-dev
+Architecture: aarch64
+Version: 0.50.2
+Maintainer: Lokesh<lokesh@hax4us.com> @hax4us
+Depends: libvte, pcre2-dev, libcairo-x-dev, libx11-dev, libgtk3-dev, pangoxft-dev, glib-dev
+Filename: dists/extras/main/binary-aarch64/libvte-dev_0.50.2_aarch64.deb
+Size: 42428
+MD5sum: e0478081f164205476af3f9762c42508
+SHA1: 059e41bb2bd9ea4328701d87dc9815caabcca8cf
+SHA256: fd2219f44961d91cac4bf2119f08ecb3c44dddfb92e9a118c22224d60927026b
+SHA512: e34f29d65a417fbe63ad02e8cb063ee996d036a83e76e3eb069813186dbbe09a5a35e78a15c46e07a77468a70ee3e4d656c43d25423508e1016d3d8c810f98f3
+Homepage: http://www.xfce.org/
+Description: Terminal emulator widget for GTK+ 3.0 - development files               The VTE library provides a terminal emulator widget VteTerminal for                 applications using the GTK+ toolkit. It also provides the VtePTY object             containing functions for starting a new process on a new                            pseudo-terminal and for manipulating pseudo-terminals.                              .                                         This package contains development files for the VTE library
+
+Package: libxfce4util-dev
+Architecture: aarch64
+Version: 4.12.1
+Maintainer: Lokesh @hax4us
+Depends: libxfce4util-common, glib-dev, glib, pkg-config, libxfce4util
+Filename: dists/extras/main/binary-aarch64/libxfce4util-dev_4.12.1_aarch64.deb
+Size: 28884
+MD5sum: cea8eaaea5710dd8cf47e9e04ab7a844
+SHA1: c7a57dfe6537015b27dc034676a2c61ceecd063d
+SHA256: ac4676d01183f0d9069120eadfa5e2ebd93871c517603849ac111296438e7e33
+SHA512: 0a6dcaeddc7d0d29c4a1bc0f23d24e10b510d31112b632056a6116ebea950ca98792769d4c4aa6394be163fd0bdb93f96608b391e426d03824aa0adab2a51b0e
+Homepage: http://www.xfce.org/
+Description: Development files for libxfce4util                                     This package contains the headers for libxfce4util. If you intend to code
+ applications for the Xfce4 desktop environment, you need to install this            package.
+
+Package: libsdl-net
+Architecture: aarch64
+Version: 1.2.8
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 28
+Depends: libsdl
+Filename: dists/extras/main/binary-aarch64/libsdl-net_1.2.8_aarch64.deb
+Size: 5480
+MD5sum: b1d7f3eac9deee56a94091590798dbd2
+SHA1: c9708f2b1af051b14de9dcd1a905e752ebfee862
+SHA256: 5d9df7d023717f87cd7ff876f41024754e7c253ce90f86ba1f73d8e4a44e2a80
+SHA512: c82ad8a13ba0253aab70944d70de5bfc0dff9cd2c0cf5f10fb6b4469c94a28f20f572ce9b650762a8b7dab5a36f5576f9f2243e077b6e27fa6f5bec39bfc6d79
+Homepage: https://www.libsdl.org/projects/SDL_net/
+Description: A small sample cross-platform networking library
+
+Package: libsdl-dev
+Architecture: aarch64
+Version: 1.2.15-1
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 1308
+Depends: libsdl
+Filename: dists/extras/main/binary-aarch64/libsdl-dev_1.2.15-1_aarch64.deb
+Size: 107404
+MD5sum: 0aba532884c01a9a30e675f1de259452
+SHA1: 6f26fe3d70932fbfa7bd485bb323393d04e65843
+SHA256: cc25148985c997da5dc128681d135fc819aa39e79b6d9a4a4d17a7afac9d4540
+SHA512: dc7dc8e09bb4d6209e93d874f23ece2caa0c97d80db86ae5d2b1d93d06fbaef1ef2a6762127b8650b407f4bf0aeafb919b5bb2a6461a4e430315d014f52bec25
+Homepage: https://www.libsdl.org
+Description: Development files for libsdl
+
+Package: libcairo-x
+Architecture: aarch64
+Version: 1.14.12
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 1044
+Provides: libcairo, libcairo-gobject
+Depends: fontconfig, freetype, glib, libandroid-shmem, libandroid-support, liblzo, libpixman, libpng, librsvg, libx11, libxcb, libxext, libxrender, poppler
+Conflicts: libcairo, libcairo-gobject, libcairo-dev
+Replaces: libcairo, libcairo-gobject
+Filename: dists/extras/main/binary-aarch64/libcairo-x_1.14.12_aarch64.deb
+Size: 344240
+MD5sum: 3946135590fd140e5d65437c1ac11913
+SHA1: f952c9e2ad34d8595797c00c73ba84b68500cc70
+SHA256: 49370aa4a79e0f806d01a0a33c475abb87967152eccb68c2211a0f7148e611ea
+SHA512: 722c1bda7ea869c256af62226e0c5e1fe647737dc5335aafbf339ebfba45dc4704610132dde37ec11fc787b236679b979476614f5e08fc96d72cfa3ca26320d6
+Homepage: https://cairographics.org
+Description: Cairo 2D vector graphics library (with X)
+
+Package: libdrm
+Architecture: aarch64
+Version: 2.4.80-1
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 260
+Filename: dists/extras/main/binary-aarch64/libdrm_2.4.80-1_aarch64.deb
+Size: 61928
+MD5sum: 26d8837cedb5322031bbb154bf0bae12
+SHA1: de2883e648b1dcb0c30c0199171e175a1e8d4e54
+SHA256: 25940ade7cb6a6ed2a02a3829335549bf45be2965e7bbfbf42d5595a385b3af2
+SHA512: 3e20f1d2b4b21102d2a1251e94031a0a5fd52b56309d0b3955d1b4b7d4f2d1297d2f904fab216e657a28fcef300530d3f1a22b75e655d2c9ee1473add0b5412e
+Homepage: http://dri.freedesktop.org
+Description: FIXME:Add description
+
+Package: libatk
+Architecture: aarch64
+Version: 2.24.0
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 132
+Depends: glib, libandroid-support
+Filename: dists/extras/main/binary-aarch64/libatk_2.24.0_aarch64.deb
+Size: 28856
+MD5sum: c54bcca8da9da7f6332ab3feebd5dad6
+SHA1: ea2bc10984c04862fc666475b02428c5b0e99bbf
+SHA256: 5d06bec4a0dd1f36c2e1ec679144a44e6cc34abf817277989629a0723153a145
+SHA512: a55fa1da4baf6ab5200e4cc9b88c74e904212904657ca03bd490c0519427bef6571142165ac7358d345b384dfb53dbfa98b2a0b4a776a9b20bfda84df7376b17
+Homepage: https://www.gtk.org
+Description: FIXME:Add description
+
+Package: libatk-dev
+Architecture: aarch64
+Version: 2.24.0
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 280
+Depends: libatk
+Filename: dists/extras/main/binary-aarch64/libatk-dev_2.24.0_aarch64.deb
+Size: 32896
+MD5sum: 24ef3ae91e8e9b9e83230f8ffdf4cb3e
+SHA1: 22faf0ab060c7e9f45bc8bc3f781c21b61b96650
+SHA256: 208028e210d120dd5afa65285f014e63e0bdd46bcb1edd7a4d8eee720e6ca824
+SHA512: f7eb9eaa30b1df374ed2062e65305ba3cfc2555bb4f0159dd71f44d690f0e32ce00f897e48c0ba10a7887af5b299d34923088fbbbd273ce9bb09e557ffc81342
+Homepage: https://www.gtk.org
+Description: Development files for libatk
+
+Package: libgtk2
+Architecture: aarch64
+Version: 2.24.32
+Maintainer: Lokesh @hax4us
+Depends: adwaita-icon-theme, desktop-file-utils, gdk-pixbuf, glib, glib-bin, libatk, libcairo-x, libepoxy, libxcomposite, libxdamage, libxfixes, libxi, libxinerama, pangoxft, shared-mime-info, x11-proto, hicolor-icon-theme
+Filename: dists/extras/main/binary-aarch64/libgtk2_2.24.32_aarch64.deb
+Size: 9509628
+MD5sum: c14bcfacd2d26fd0caf829234cf54b35
+SHA1: c78762c03daab520f6145932ea21b8b8716c59a3
+SHA256: ae09db3501eead13f0fb74331612ff6b13379c23b972ce62ce3845ebc3129d96
+SHA512: d7c9b1fc2d2847a6bb25637424ba1b1dff1e5fae0bce8af11175ff2554377a13a8c716814cdcab457d761ed93107ed445a1b6bfa3394808eb85482905ff80152
+Description: GTK+ graphical user interface library                                   GTK+ is a multi-platform toolkit for creating graphical user                        interfaces. Offering a complete set of widgets, GTK+ is suitable                    for projects ranging from small one-off tools to complete application               suites.                                   .                                         This package contains the shared libraries & binaries.
+
+Package: xcbproto
+Architecture: aarch64
+Version: 1.12
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 972
+Filename: dists/extras/main/binary-aarch64/xcbproto_1.12_aarch64.deb
+Size: 98512
+MD5sum: 534f23dd96f34c57bac5c908d905d366
+SHA1: 62fcb509502291274e7e16a371575b6df2d679d9
+SHA256: a4b93f0a453c1b0800add3e657fd09e19b2f7d45591bd5f97d774b8c75ddbf88
+SHA512: ea9fd38e44b47c817794761002833d7ff6ed7661b37093b9c27cd13ad58afcf79f128305410872e66634d60dc770ec8a4fa4473d7d4d5a3d0d9680e4a7dd8c7a
+Homepage: https://www.x.org
+Description: XML-XCB protocol descriptions
+
+Package: libdbus-glib
+Architecture: aarch64
+Version: 0.108
+Maintainer: Lokesh @hax4us
+Depends: libdbus, glib
+Filename: dists/extras/main/binary-aarch64/libdbus-glib_0.108_aarch64.deb
+Size: 192344
+MD5sum: dccf72cfcbb8448dcacb7aca1b6e9f1c
+SHA1: b62eaa5775a92d77d1040980c05c34ce5a79be95
+SHA256: b170967442f2bd8f4912b6fcffc69e57576e5b3196d147b639daa6fa09efca42
+SHA512: 55894303a01e66b977f1dde606acb5adf66a15668f17d6baf5426b599ec31bfb3b3e1764e3f250e9999342fc04e8eae2ae4d0dff0d54aabb0ce48d6316aa0b74
+Description: simple interprocess messaging system (GLib interface) D-Bus is a message bus, used for sending messages between applications. Conceptually it fits somewhere in between raw sockets and CORBA in terms of complexity. This package provides development files for a deprecated GLib-based D-Bus library. New code should se GDBus, part of GLib, instead.
+
+Package: xcb-util
+Architecture: aarch64
+Version: 0.4.0
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 32
+Depends: libxcb, xorg-util-macros
+Filename: dists/extras/main/binary-aarch64/xcb-util_0.4.0_aarch64.deb
+Size: 5104
+MD5sum: 2d37a9e6ec96dee891606246777b2a15
+SHA1: 779cdf02b6f6ee4949dfb935c9949179e1a5ebff
+SHA256: 37afeef7859e41e34afbd1a7544cef61dc8a8eb47a9a18739c1a45b460523b83
+SHA512: 62ebe70aa63353cc5d188800ab61eacb251ca5bf70580bfb5fb83b69e7346b20aad752c8dc01af6197f082bf57d488466afd180c5b7305d7bf41b5a3b8f67ce5
+Homepage: https://xcb.freedesktop.org
+Description: Utility libraries for XC Binding
+
+Package: hping3
+Architecture: aarch64
+Version: 3.0.0
+Maintainer: Lokesh @hax4us
+Installed-Size: 180
+Depends: libpcap, libandroid-shmem
+Filename: dists/extras/main/binary-aarch64/hping3_3.0.0_aarch64.deb
+Size: 49500
+MD5sum: 49e8fe8ec8806273133f8e3aa8e6dd66
+SHA1: 0bc3222ecdd0bf46a4684b07c36c1fb1753c8113
+SHA256: 57769c9e6783ece100f88b342c7d9d4bddf0c2be2ac052a660bbbd0c4221c48b
+SHA512: 12aabc4daefe8085386aae9dfedffa847c6a7f6bbec11257b7b680e8700b185c52c95cd95e73c7addb35b16a64b1718e2ca971310fa2095d4dbaa728833b1052
+Description: hping is a command-line oriented TCP/IP packet assembler/analyzer.
+
+Package: libssh2
+Architecture: aarch64
+Version: 1.8.0
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 144
+Depends: openssl
+Filename: dists/extras/main/binary-aarch64/libssh2_1.8.0_aarch64.deb
+Size: 51372
+MD5sum: 722fe6d7fc4b46591e8fab02f527cb6a
+SHA1: 55cf2470641561ac4359c00e7391757e1b30aa5f
+SHA256: 772afb18e8fc2c95bc3008344a7000270d8397ea8ad3fc92b37f2eca30701a3b
+SHA512: 68091cdff1e1d6ec54e9237fac215b5f63cec5f7b6121c0a6259c2d92f16bca91fbe098d572da0db96a957559c864d8aabe2f859c2fff2741a3d6de55e0273ad
+Homepage: https://www.libssh2.org/
+Description: A library implementing the SSH2 protocol as defined by Internet Drafts
+
+Package: httrack
+Architecture: aarch64
+Version: 3.49.2
+Maintainer: lokesh @hax4us
+Installed-Size: 2248
+Depends: openssl
+Filename: dists/extras/main/binary-aarch64/httrack_3.49.2_aarch64.deb
+Size: 437576
+MD5sum: fb7a7518dc836b50323f0b11fe75eff2
+SHA1: 4a5da76d5df2d268c2c7884aa43ccb678029230f
+SHA256: 7167a3bafc11fa2fbcb4244f51b372d3e4edc08ff450dfaa752c34d63a64ddc4
+SHA512: 9ab07caf77459ea6aa5104a000daf7ec93a20b5bd49061f595a78805018d8930afc677ef38edfb4767e278f2f239a781e4e654fc3c9f03515639156e61a6db1c
+Homepage: http://www.httrack.com
+Description: It allows you to download a World Wide Web site from the Internet
+
+Package: libxrender-dev
+Architecture: aarch64
+Version: 0.9.10
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 20
+Depends: libxrender
+Filename: dists/extras/main/binary-aarch64/libxrender-dev_0.9.10_aarch64.deb
+Size: 4028
+MD5sum: b4a5ed918a78c70e025e3d343fc1b486
+SHA1: c5c9a6970dbcb77abc21b897f77c1c2c49a8dac6
+SHA256: 43886eb55919bb3da872ebcaaeb2fdb13347cac9a5af1cd80f3273a9b2a946e7
+SHA512: ce0c83509c39fe8f67540748004becb04e7edf8cda4bb4a69cef5efcab720e3b15f6c458e60a9ddb678fd8af9b2877b2b724d1545838fc27033f8d11150e4931
+Homepage: https://www.x.org
+Description: Development files for libxrender
+
+Package: libxinerama
+Architecture: aarch64
+Version: 1.1.3
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 24
+Depends: libxext, x11-proto
+Filename: dists/extras/main/binary-aarch64/libxinerama_1.1.3_aarch64.deb
+Size: 2896
+MD5sum: fbe5c9143190021be43841ca61feee4d
+SHA1: 2708e638336222378496181d33d25728f3d41adb
+SHA256: ee32e9d8d98a41e1f887296ab567cc8debdb966eced89795c6399dd59bb97e06
+SHA512: 9b27de6a9936506fb72f8a178ddc9a3e5b97256014757407f561bf03859af3b4ff4dd89d2af34f11864937a4c05b3940b80f63fa58d631b390729e33c30ab9c5
+Homepage: https://www.x.org
+Description: X11 Xinerama extension library
+
+Package: dosbox
+Architecture: aarch64
+Version: 0.74-2
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 1808
+Depends: libsdl, libsdl-net
+Filename: dists/extras/main/binary-aarch64/dosbox_0.74-2_aarch64.deb
+Size: 480516
+MD5sum: ed6e61592657cc7b7a32cf1d44402ac0
+SHA1: 8e2af1f290027c8638c427b1bf730bcf049c4a0c
+SHA256: 7f3386b7895f702707fdb45fea49e99a00efbd1a1f3fc689a1da91f2ef52ec7b
+SHA512: 38482d78862770652259d098100c27b839d57e9a24399573e5680243065c203ea249d288c25224ac635c471bf03091a7f3bc006d985670d6cbd83b0fb915f90e
+Homepage: http://dosbox.sourceforge.net/
+Description: Emulator with builtin DOS for running DOS Games
+
+Package: libxi-dev
+Architecture: aarch64
+Version: 1.7.9
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 496
+Depends: libxi
+Filename: dists/extras/main/binary-aarch64/libxi-dev_1.7.9_aarch64.deb
+Size: 38132
+MD5sum: d2c753df9158a31873bb56c1ad5b287e
+SHA1: 32774cd189e795d1b521743db3e4592ec22153ff
+SHA256: 2f2bdaad84449d1870b030b60338bbc4de093978f69ed37d467dd4399ac0c9c1
+SHA512: c45db08e3c7becf0b5324821441dad4c1c4591033796cc3025bf110862aaeb160e6d41efa4c4bec1fb3a5349be602cff3888f364d1fcfee8c3cb41b77624c180
+Homepage: https://www.x.org
+Description: Development files for libxi
+
+Package: libxi
+Architecture: aarch64
+Version: 1.7.9
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 52
+Depends: libxext, x11-proto, libxfixes, xorg-util-macros
+Filename: dists/extras/main/binary-aarch64/libxi_1.7.9_aarch64.deb
+Size: 17816
+MD5sum: 768e9f6238b15b3a88b99f72caf9044c
+SHA1: 283e802d90be58a44c40d6d47308caef2fd62487
+SHA256: 7f630e347cf52ded370d4fbb911038b06203aa460196fe3f22a77bbd4f41c550
+SHA512: 365bb48c84ac0971ee0966799ed7b3ad0e9f6942b9fccd090596ba6167c726cb91f4a7985ba11efb5b8b00221d56da467a98cb50a4c732911fc294a51af11401
+Homepage: https://www.x.org
+Description: X11 Input extension library
+
+Package: libmesa
+Architecture: aarch64
+Version: 17.1.4-3
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 720
+Depends: libexpat, libxml2, libx11, x11-proto, libdrm, libxdamage, libxshmfence, libandroid-shmem
+Filename: dists/extras/main/binary-aarch64/libmesa_17.1.4-3_aarch64.deb
+Size: 118344
+MD5sum: caef5ea9ac822fdb3d1d59d3b3cdd37c
+SHA1: f5c4cc2d9eaa56d4f45e8ad66c5989ff412018b4
+SHA256: 3d634cf646758c379344a65945c37da5be872834edb36eba75fe070e7f8b9254
+SHA512: 17ad079811a259fbfd0a2a38c6d19dcac819e1348a76d8105b214d14f162bbfaf434dfeb272972ae9b475d2c6a5113e97800cd379806c08e63ce91d8fef93c19
+Homepage: https://www.mesa3d.org
+Description: FIXME:Add description
+
+Package: libxcursor-dev
+Architecture: aarch64
+Version: 1.1.15
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 160
+Depends: libxcursor
+Filename: dists/extras/main/binary-aarch64/libxcursor-dev_1.1.15_aarch64.deb
+Size: 8020
+MD5sum: 02397278e89967dc609193fdbb456156
+SHA1: 7e4dabd011bef20c59696584b3ebb0a1a064b9d5
+SHA256: ac73e8bda23fa3a336f3e899a8b5d75199a131d055fbca023c0d7ba90db8d80a
+SHA512: f2d8349d27f666fdd6f1994a62ff39c24c68d297678619fbf6738e96349e10c365ffc51381ff0e4087d4258ccc9e98230f23fd46ecaa4f6bbd956de4b53393c9
+Homepage: https://www.x.org
+Description: Development files for libxcursor
+
+Package: libepoxy
+Architecture: aarch64
+Version: 1.4.0-2
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 884
+Depends: libmesa
+Filename: dists/extras/main/binary-aarch64/libepoxy_1.4.0-2_aarch64.deb
+Size: 112048
+MD5sum: 15147244cf94cbeae3c75a80ab591ab2
+SHA1: 602a9903d761c4ae94eb836fef99a1cb1c8959a3
+SHA256: 7cc69645fb408aeb8c1d6e4d5e383e72f068325af1f2b5ca6905e66480debb93
+SHA512: 47fc32d7b1fe696e7332fb7eae55257c8903950f0321d221ae22c932999da62f8fdb6e1b735b4cbbbceb17ab0bf7e981527c60e202f598602625d83d98d58f9f
+Homepage: https://github.com/anholt/libepoxy
+Description: Library handling OpenGL function pointer management
+
+Package: libx11
+Architecture: aarch64
+Version: 1.6.4
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 2932
+Depends: x11-proto, xtrans, libxcb, libandroid-support, xorg-util-macros
+Filename: dists/extras/main/binary-aarch64/libx11_1.6.4_aarch64.deb
+Size: 552336
+MD5sum: 540e1e590da87eaefe5e63938c21cca7
+SHA1: 3cd5ecaa5cc6fbd03ecb61f9847ce1f1288eb8f6
+SHA256: e3857f2253790e36a09b650a385b087648848ea233c0dd25bae657b6ea652684
+SHA512: 24c27d3dfde6aa471dfa391949ddb091f001e3e5738327d500da4aa2cb32e24583432818f73ebdd6945d4bf6035855e679064aaa0f2eac882646170fd60c205b
+Homepage:
+Description: X11 client-side library
+
+Package: shared-mime-info
+Architecture: aarch64
+Version: 1.9
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 2260
+Depends: glib, libxml2
+Filename: dists/extras/main/binary-aarch64/shared-mime-info_1.9_aarch64.deb
+Size: 238172
+MD5sum: 0112c64bbb8eb5ed6309c1acd20c99fc
+SHA1: 8d1bf68456c7cb57924ab4cee0bb8cf086e9301d
+SHA256: 97513c4b728ba126db5f563e4849055adaf607a0507d337af066854f51f9e3c1
+SHA512: 7235fd336441283c5ec8be51920abd452d0fab5534178985fe881c765fe475f039b84e08cf7d9817e0a6571d0f5406f5894de4c65507311f178e754e75ce2c6b
+Homepage: https://freedesktop.org/Software/shared-mime-info
+Description: Freedesktop.org Shared MIME Info
+
+Package: libsdl-net-dev
+Architecture: aarch64
+Version: 1.2.8
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 24
+Depends: libsdl-net
+Filename: dists/extras/main/binary-aarch64/libsdl-net-dev_1.2.8_aarch64.deb
+Size: 5588
+MD5sum: f2da8d3d8cbf9a12af465682d4bdddfd
+SHA1: 985fd77c24d67909f10f45f16a51626d122c2c8e
+SHA256: a3d1427bd4ed66dd657b39358fb4612554655999f1fb1f56f41f78532b576e0b
+SHA512: 53ad96e08f213b23bf7df7e1fd9f5e29d093f844456b74401c7d0cbdd00bf60c878c6e16002f6d6e8443a96b12d664a0cad318c59ffae879aea3aa37f0a1927c
+Homepage: https://www.libsdl.org/projects/SDL_net/
+Description: Development files for libsdl-net
+
+Package: libseccomp-dev
+Architecture: aarch64
+Version: 2.3.2
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 168
+Depends: libseccomp
+Filename: dists/extras/main/binary-aarch64/libseccomp-dev_2.3.2_aarch64.deb
+Size: 14520
+MD5sum: 0b87e5c7bd514b87d291a7bfa2da4c87
+SHA1: c648e1cff5302e2b0ab33b73ced811b335f42d29
+SHA256: c0ec2b63fe347bb5a851ea6e4c791e2307a67a492052d09d70eec489a787d914
+SHA512: c7f5987cf6bfa5eab0505ad26657d99522acf3f8b63dcdd417b3dd14e6c613a8a6cebfed0a9d74c19ff3f0309812d5c5cb500c89cf586047658a8fa85fc06678
+Homepage: https://github.com/seccomp/libseccomp
+Description: Development files for libseccomp
+
+Package: libxext
+Architecture: aarch64
+Version: 1.3.1
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 64
+Depends: x11-proto, libx11, xorg-util-macros
+Filename: dists/extras/main/binary-aarch64/libxext_1.3.1_aarch64.deb
+Size: 15648
+MD5sum: 6ea101e782c115eae899c0eafaf7c5b7
+SHA1: 5353bd7e0e0972bb2d42545a9fdb31a53e5ff362
+SHA256: b637228ae57bfb79c2a7cdd53c089156049cdb42d2f60bc56fea929f7f266313
+SHA512: 229445acb661dca72b5bb59e2cc0fb4c26ad99d34698647b447fa84719e57b9209107f02b035f81790dc8932db12a7fa864364a807c164ba2df952dda5b9b3b8
+Homepage: https://www.x.org
+Description: X11 miscellaneous extensions library
+
+Package: xcompmgr
+Architecture: aarch64
+Version: 1.1.7
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 36
+Depends: libxcomposite, libxdamage, libxrender, libxext
+Filename: dists/extras/main/binary-aarch64/xcompmgr_1.1.7_aarch64.deb
+Size: 11776
+MD5sum: f82c4e6e4f29f88c4dd13b35a97e2734
+SHA1: 8bb686c629f39c47bffc078a400deacb5786ac26
+SHA256: e11bde8fd6c535cad3d911aedf2775446630abe1825334dc184ea1eb78b5b203
+SHA512: d285f7e7c586a96cc8943e518b04bfe1ce324905a4cc90cd58c5f825a44d22125095b0d75b652ec81b56ad38ae872cbfc20fcac6df16de99c8ec916133cc9e93
+Homepage: https://xorg.freedesktop.org/
+Description: Composite Window-effects manager for X.org
+
+Package: libxmu
+Architecture: aarch64
+Version: 1.1.1
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 120
+Depends: libxt, libxext, xorg-util-macros
+Filename: dists/extras/main/binary-aarch64/libxmu_1.1.1_aarch64.deb
+Size: 31392
+MD5sum: 3e031f1b81b46b9f2248ab55bfd58624
+SHA1: 410fd5d951547e1a82d0f2ca566e90d005febcc6
+SHA256: fff5fab2816344c47521ccc1fdf6f5533099beb1c872dfda03e68d67bb73d4b8
+SHA512: fdbfb4695f2b8990f4530e72351e2020a0eb683ddaa21c2f0e1a37981e7f62688c5290c8477b5044c720b901b1ca29fdabef2999098ad8e661dadb88ed5dbd65
+Homepage: https://www.x.org
+Description: X11 miscellaneous micro-utility library
+
+Package: libxext-dev
+Architecture: aarch64
+Version: 1.3.1
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 372
+Depends: libxext
+Filename: dists/extras/main/binary-aarch64/libxext-dev_1.3.1_aarch64.deb
+Size: 25052
+MD5sum: 957598a33a7adad9fc61c772155efc5c
+SHA1: d145141bbfac69554147d4ae1af824813a654db3
+SHA256: 17fc5b87d32bf4b3050c51706da46411b0e17e60bf9cc23150ab1539d2c56e6a
+SHA512: 3b7349a69e5efc8bd0d3e2163e633bde5b605235a6d48f27e0e42a2e91c0c0f278530b9f36ab0ffc2187761375b33c64973090aeeca811365bb8e1a218042300
+Homepage: https://www.x.org
+Description: Development files for libxext
+
+Package: xorg-xkbcomp
+Architecture: aarch64
+Version: 1.4.0
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 184
+Depends: libxkbfile, xkeyboard-config
+Filename: dists/extras/main/binary-aarch64/xorg-xkbcomp_1.4.0_aarch64.deb
+Size: 62656
+MD5sum: 4592a1392f2d7aac6f0833cefe2e959e
+SHA1: ca8b1f85ae11add3bcba78a63f3ad4f39ff93863
+SHA256: a59bd90635152804fcc9742e2be192897e70eed1ed7c263d7fe5f78fea597d14
+SHA512: c5cc0d3c666b201ee1e1c951baa9a37c74716710b1d22fe4349030e5c8dee22f45b8add17a37c039a2da45dc7e5556ef7ba63608d5588b40dd847b97ccc11b00
+Homepage: https://www.x.org
+Description: FIXME:Add description
+
+Package: libxfconf-dev
+Architecture: aarch64
+Version: 4.12.1
+Maintainer: Lokesh @hax4us
+Depends: glib-dev, libxfconf, pkg-config
+Filename: dists/extras/main/binary-aarch64/libxfconf-dev_4.12.1_aarch64.deb
+Size: 21348
+MD5sum: dda155643ef09e2256e3e7a2a6ee6ab0
+SHA1: 797a03467f3f2ec3a210c670f6eaac9969e2e0ce
+SHA256: 1aa5878c6a9ab9b31e211c1ae575f6c96f1d72d7376077375ac79187c7a93039
+SHA512: 5fb43e2bd95eff295ca6cde1494653cba1fc275aa55752fc750e2014ecf2e7f489c00c9f94de3d20e52c88cd6c0cd727331acc0d3d00d40da66804ebe5c3abf4
+Homepage: http://www.xfce.org/
+Description: Development files for libxfconf                                         This package contains the development files libxfconf which are                     the main part of the Xfce4 configuration system. If you want to develope applications that use this library, you want                                to install this package.
+
+Package: openbox
+Architecture: aarch64
+Version: 3.6.1-6
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 920
+Depends: bash, imlib2, librsvg, libsm, libxcursor, libxinerama, libxml2, pangoxft, startup-notification
+Recommends: feh, pypanel, xcompmgr
+Filename: dists/extras/main/binary-aarch64/openbox_3.6.1-6_aarch64.deb
+Size: 366272
+MD5sum: 822a20302299a8370d64942b731031ab
+SHA1: a008e741e00bdb626d3d5977fef5e604ae48bffc
+SHA256: 26e51af54ae573ff7d8a257389f4c5bdbcf3145928e3bdbb405f496838f91f1b
+SHA512: beb36ca7803d50ee7ee50200179d6ff88571bc6f93f3b65895147b9ced369d0bd19018b18598974ecbe50756eb7722b090212662a7d450f399c7e3c30fed7dad
+Homepage: http://openbox.org
+Description: Highly configurable and lightweight X11 window manager
+
+Package: tigervnc
+Architecture: aarch64
+Version: 1.8.0-2
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 2740
+Depends: gettext, libandroid-shmem, libgcrypt, libgnutls, libjpeg-turbo, perl, libpixman, libx11, libxfont2, x11-proto, xorg-server, xorg-xauth, xtrans, xorg-util-macros, libxinerama, libxdamage
+Filename: dists/extras/main/binary-aarch64/tigervnc_1.8.0-2_aarch64.deb
+Size: 702556
+MD5sum: eb403f1dd7ee442ca44d9e8aee6b97d0
+SHA1: 21ce566ead6f656ae77a4cb9d904191f62dc3756
+SHA256: f219085d3f6a21d4410d0d0911de7d0f37b913bfdc7a3d02d3ad56f393557ccc
+SHA512: 031ebad50108bcea09f3ed719b3ab45749823cb7fc544874430b012ca1a336499dc5b32665aeccdff8661c5dcecc4da72fbaacac76c1513f2cf3a99e8e67dc9b
+Homepage: http://www.tigervnc.org
+Description: Suite of VNC servers. Based on the VNC 4 branch of TightVNC.
+
+Package: libxpm
+Architecture: aarch64
+Version: 3.5.12
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 120
+Depends: libxt, libxext, xorg-util-macros
+Filename: dists/extras/main/binary-aarch64/libxpm_3.5.12_aarch64.deb
+Size: 30988
+MD5sum: b32f0af8f19403fabb86daa85bcbe864
+SHA1: bab39c3c506a33afed16214e2bb7e9910e274eda
+SHA256: b5d50b16d5556d8f61b7d6a532970a14c352d419eba03490299b0782350580a4
+SHA512: 981dcf0b99d3a04494b10e8a501b7d4659fe7f2d9e77a07074727493989bb6180751f6834c7fa894c8610857e4e5094c4ab2fbb76c714374f58807a2e0d043ac
+Homepage: https://www.x.org
+Description: X11 pixmap library
+
+Package: xbitmaps
+Architecture: aarch64
+Version: 1.1.1
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 4
+Depends: xorg-util-macros
+Filename: dists/extras/main/binary-aarch64/xbitmaps_1.1.1_aarch64.deb
+Size: 984
+MD5sum: 1c5358d432c86b8378aecf9c2ebb2b9c
+SHA1: efd53fb727bc26bcfe7c2c5eec8f64bae6723a8b
+SHA256: 9bcaacf8ddae207bb7e29fdfb55477a809c2b350c4574fa5990350f8147e9236
+SHA512: 51098184199d68a83bf89a48655b5dcfb6b52c95026af0c656ab35c902f2c3fe8020c6769803c360ae5b5760994ad9cfa45c71592cc225e6f3d633494d9e8d56
+Homepage: https://xorg.freedesktop.org/
+Description: X.org Bitmap files
+
+Package: liblua51-dev
+Architecture: aarch64
+Version: 5.1.5-2
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 52
+Depends: liblua51
+Filename: dists/extras/main/binary-aarch64/liblua51-dev_5.1.5-2_aarch64.deb
+Size: 12160
+MD5sum: 97ee4b3ecc84aea730a2695412ffc366
+SHA1: 99cb867143d127b43695c812ec10b64faaf6ec9a
+SHA256: f5fa313aaf836996e1b6e2bb13884221e4c6676731915a1f60ae2aa257a3ab98
+SHA512: 7060c6425648aa957c7b5c3206382a1f20e506061d25ae905e721923d2b794c7796f8d1f8571dc3fa82b66d5dc2a61b108d19d6ccca9cea889ecc7c8f7dadbc8
+Homepage: https://www.lua.org/
+Description: Development files for liblua51
+
+Package: ndk-sysroot-x
+Architecture: aarch64
+Version: 16-5
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 10312
+Provides: libutil-dev, ndk-sysroot
+Depends: libandroid-support-dev
+Conflicts: libutil-dev, ndk-sysroot
+Replaces: libutil-dev, ndk-sysroot
+Filename: dists/extras/main/binary-aarch64/ndk-sysroot-x_16-5_aarch64.deb
+Size: 861320
+MD5sum: 48a6734a02ac9ae6f48bc44f2334406d
+SHA1: d412dc243d7b4f0e03d4c4b76fd175a78500310e
+SHA256: 2423b010bf69dcd3c647d396791e7055af3e6da916c301fa6eba7a780c9f04cd
+SHA512: cd381fc05a80bb3f46e86480b776974cf8d4f062ff3f058249179d98e8a3b775f5397a5af6d965518c4ef4697e4389a0fe52c77bd565c052a7fe2fdcc3b887c4
+Homepage: https://developer.android.com/tools/sdk/ndk/index.html
+Description: System header and library files from the Android NDK needed for compiling C programs
+
+Package: libseccomp
+Architecture: aarch64
+Version: 2.3.2
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 268
+Filename: dists/extras/main/binary-aarch64/libseccomp_2.3.2_aarch64.deb
+Size: 31976
+MD5sum: 0b2ee0dea8affc52ced510f6618ae083
+SHA1: 06b9e5191f57ef98edac9a1a437b3346bf775623
+SHA256: cd27c1cc4fa8c6ebe447653a07510ea3892319794b8bad81c27b8e0daae3fe8a
+SHA512: 6c80eb231fcf445682e6e73305ed90200a7a8032d330b96add17f9a133d80852380c64232d1ca6c99f379bf2cba23d46c875b3990de7bd9f5d21f8f89aa29bc1
+Homepage: https://github.com/seccomp/libseccomp
+Description: Enhanced seccomp library
+
+Package: libx11-dev
+Architecture: aarch64
+Version: 1.6.4
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 4748
+Depends: libx11
+Filename: dists/extras/main/binary-aarch64/libx11-dev_1.6.4_aarch64.deb
+Size: 228188
+MD5sum: bd25ed5abe2ac812bebac91359cad015
+SHA1: 028c1b01e24e30a5f10342ef6053e1278d51e2b0
+SHA256: 5da6bfdb735c245e5b6176c8082fe5bd5f82522a633862b238779470ba5c8c3c
+SHA512: 78f58a3fd844975c75a195d7460c0f1055afe10967738000119a16bb0681836620e227adeeff18d06cdea2e62f15aa72a9726c3d5d73b22f73b2785d7dcc2f91
+Homepage:
+Description: Development files for libx11
+
+Package: libdbus
+Architecture: all
+Version: 1.12.2
+Maintainer: Lokesh @hax4us
+Depends: libx11, libx11-dev, libice, libice-dev, libexpat, libexpat-dev, glib, glib-dev, libxcb, libxcb-dev, libxcomposite, libxcomposite-dev, libxext-dev, libxi-dev, libxau-dev, xcb-util, libxaw, libxrender-dev, libsm, xtrans
+Filename: dists/extras/main/binary-aarch64/libdbus_1.12.2_aarch64.deb
+Size: 369388
+MD5sum: aa69c394e460fa0ff8d58ec59da68f34
+SHA1: b2f21838509c03a751f58e93d0ab33df01b2ddef
+SHA256: 95c07c781274ad1fa6895bf31837e28fb596613650de427a67c712a843f0092d
+SHA512: 6377280fe3219f43de6ae294c02e3fa602fdcc538cf3cc15c196f5cad8e1be0e0269721eb86e91d1d67f5ca5d2bdf1d9cf144f3637887bbc8b0f469097144e64
+Description: D-Bus is a message bus system, a simple way for applications to talk to one another. D-Bus supplies both a system daemon (for events such as “new hardware device added” or “printer queue changed”) and a per-user-login-session daemon (for general IPC needs among user applications). Also, the message bus is built on top of a general one-to-one message passing framework, which can be used by any two applications to communicate directly (without going through the message bus daemon).
+
+Package: libgtk3
+Architecture: aarch64
+Version: 3.22.26-13
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 11048
+Depends: adwaita-icon-theme, desktop-file-utils, gdk-pixbuf, glib, glib-bin, libatk, libcairo-x, libepoxy, libxcomposite, libxcursor, libxdamage, libxfixes, libxi, libxinerama, pangoxft, shared-mime-info, x11-proto
+Filename: dists/extras/main/binary-aarch64/libgtk3_3.22.26-13_aarch64.deb
+Size: 2445344
+MD5sum: 40858c6bf224db13eba2316093c65b85
+SHA1: 017f0d2cda68fee437e701b9f79294e284a3506f
+SHA256: 691fa56c6d98ffb38102cde79286ccf1fc026a05baffdbabb072aa511a8beda8
+SHA512: 7c522419eb8fd5eac3baf37783801d24e41253de5c9280a069d454f969db6fb8b9204eea7ffa98f4e28bfd4a9ec80b0010e02638faeb010db4d0364b7c1010d7
+Homepage: http://www.gtk.org/
+Description: GObject-based multi-platform GUI toolkit
+
+Package: libxfce4ui
+Architecture: aarch64
+Version: 4.12.1
+Maintainer: Lokesh @hax4us
+Depends: libatk, libdbus-glib, fontconfig, freetype, gdk-pixbuf, glib, libgtk2, libice, libcairo-x, pangoxft, libsm, startup-notification, libx11, libxfce4util, libxfconf
+Filename: dists/extras/main/binary-aarch64/libxfce4ui_4.12.1_aarch64.deb
+Size: 355496
+MD5sum: 2871ceb4a23a752435b80a992a7773cc
+SHA1: f0cc3f9d6f84b143e900a1e46cdf5ce39eb3636c
+SHA256: f648c001abae914890e7d18efdb1a2c139e1f4dae3ca5b8d9ed608e5c1010669
+SHA512: c7750dc41c106f20e8fb903fbc325b21e159441d1bad414719de4ec51b11598725c73e1a273ebcd9593037dd01171a923ac9b4dea83f73faf53037d231391edb
+Homepage: http://www.xfce.org/
+Description: widget library for Xfce - Gtk+2 variant                                 libxfce4ui is used to share commonly used Xfce widgets among the Xfce               applications.                             .                                         This package provides the Gtk+2 variant of libxfce4ui.
+
+Package: libice
+Architecture: aarch64
+Version: 1.0.8
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 88
+Depends: x11-proto, xtrans, xorg-util-macros
+Filename: dists/extras/main/binary-aarch64/libice_1.0.8_aarch64.deb
+Size: 26500
+MD5sum: c3fcac69a5a224e238bfaeb62c079fda
+SHA1: 1e598d4b72c8d1510b839d822751976d26c8f58f
+SHA256: 0630f38b7d8d38b68877605ac29ae0a32948ec2030310ebd4b358c3a075fb5d1
+SHA512: cd8d76b0ba4e0f9795e9cd93faec19bac3d7a27190ffa133cfa638a36ef3c63496dd23d6de32614556db3b065b70529fc392c8e31978da27827f557ac4fd6de2
+Homepage: https://www.x.org
+Description: X11 Inter-Client Exchange library
+
+Package: libexo
+Architecture: aarch64
+Version: 0.11.5
+Maintainer: Lokesh @hax4us
+Installed-Size: 6204
+Depends: libxfce4ui, libxfce4util
+Filename: dists/extras/main/binary-aarch64/libexo_0.11.5_aarch64.deb
+Size: 946280
+MD5sum: 011b9148f40026f2e5e5d6ff0dbee59f
+SHA1: 5615a3094041507c43fb2f9d472a621482b84fde
+SHA256: 59302d3ec6b524f6072ddbd18510f251f3371f0aa7dc3754546ee1e265b26ee7
+SHA512: c7a1da90979658bbf2c2ec103a30fca72bd5ae0f0fa85dc91465b9185cb814deb03bc4b43f62fee2c064cc34480bbb967f5547f00a4902e9de2cd29acce71efe
+Description: Exo is a support library used in the Xfce desktop.
+
+Package: libxau
+Architecture: aarch64
+Version: 1.0.8
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 24
+Depends: x11-proto
+Filename: dists/extras/main/binary-aarch64/libxau_1.0.8_aarch64.deb
+Size: 3668
+MD5sum: 1e19ad5ea2cd33f4635e9687ad45abe8
+SHA1: 6bf564328816d63a0968b5b8a4413717a1de9c37
+SHA256: 8acc4ab59796172b2affe4d27a537089aa66c308f8691bdeee2015d024d7954f
+SHA512: ad12352f67fabee4eed54fc1885d918c724a3489a7cf6ff4a7c1d3b8b903753a93c16018d65f50335d65f5348d6304e576c6e2040181177648614c8c58165707
+Homepage:
+Description: X11 authorisation library
+
+Package: libxinerama-dev
+Architecture: aarch64
+Version: 1.1.3
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 36
+Depends: libxinerama
+Filename: dists/extras/main/binary-aarch64/libxinerama-dev_1.1.3_aarch64.deb
+Size: 4140
+MD5sum: 104b7103610a2fa14cc5c23100cde8ed
+SHA1: 1df0a24f7e46dc8c45dd9b80892c36440c2664e2
+SHA256: 92bced5a7a2c930af29be529d8f4278761c82fa07e031c5ec58c736a05a12712
+SHA512: 01dc3ed297755b9804ff1276343b2bf20702916a1f25598066b821155842b9228c4f7dd37d3f463995cf36257c3ce46584bbcc685963f715047dac553b4080b3
+Homepage: https://www.x.org
+Description: Development files for libxinerama
+
+Package: the-powder-toy
+Architecture: aarch64
+Version: 92.5
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 2096
+Depends: fftw, libbz2, liblua51, libsdl, libx11
+Filename: dists/extras/main/binary-aarch64/the-powder-toy_92.5_aarch64.deb
+Size: 527064
+MD5sum: cb9b36ca8760803ce3be1376376dd1b9
+SHA1: 4a2d69a25b19bdbcf366647af9802a8fbc02b029
+SHA256: 139e1d9d5746103612607b4e7cc899f84bd75fc0a427e6d0ac4174d9fe53d5b3
+SHA512: fd0d1c7ae0a91114fba6e0ac2373c3e89dbac76e9e9658387a00d8497e27bd1cda954ef5d90e33bc1d940f62177b018a468b0eaf59f0be8030efdbaffeb385f6
+Homepage: http://powdertoy.co.uk/
+Description: The Powder Toy is a free physics sandbox game
+
+Package: pypanel
+Architecture: aarch64
+Version: 2.4-1
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 120
+Depends: imlib2, libxft, python2, python2-xlib
+Filename: dists/extras/main/binary-aarch64/pypanel_2.4-1_aarch64.deb
+Size: 27148
+MD5sum: 65e9a243fd3d580200a09437f7db8ee2
+SHA1: 6ed61dfc157fb4e857a1e4e915449a0b0b639180
+SHA256: 5a53b2a0ac9dcffd5a24f0a4e97aca63eaa0f2b2951fb7d697ec18588d256271
+SHA512: e17ce9a9e524807c8beeb41b23a7087229031af22cc7ce6b86cda130c3ca0059fe43daca74cff60cc87ead444aa19d89121c79fee0ecaab9cf2fe8458eeb6e60
+Homepage: http://pypanel.sourceforge.net/
+Description: A lightweight panel/taskbar for X11 window managers written in python.
+
+Package: desktop-file-utils
+Architecture: aarch64
+Version: 0.23-2
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 204
+Depends: glib
+Filename: dists/extras/main/binary-aarch64/desktop-file-utils_0.23-2_aarch64.deb
+Size: 30364
+MD5sum: 6804e0b205158b8d213210449ce0d803
+SHA1: 2bd5e855919f6f64999683bbcee49a8c285b4c29
+SHA256: da0fae0c271f4add51dd5364a234240f4d280924ff77567caec2259875dab5cb
+SHA512: afe980af170313b106e4c27c1fbc90090dae8e10909e7b1415d881046f42af0ad0b04690a2072f6c489fc91500437c1be597e262e836fc263cb975fef374f68d
+Homepage: https://www.freedesktop.org/wiki/Software/desktop-file-utils
+Description: Command line utilities for working with desktop entries
+
+Package: fontutil
+Architecture: aarch64
+Version: 1.3.1
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 268
+Filename: dists/extras/main/binary-aarch64/fontutil_1.3.1_aarch64.deb
+Size: 22772
+MD5sum: 79473bb437e62a4097a73033c10982a2
+SHA1: f5d0aa12d4b5daaaad0f5a68745a87db52ea824c
+SHA256: 620424da195b937b5620068f4f56ce1b07c417adfab7ae6f69db37f3b059f6be
+SHA512: 3eb452355159675c70b9d93b431d81dbe164630f05670ff7170313d9eb08c855ef49b7e5997505bde4a9dde6e66c6e62df127cd1f13ae3b336e342d556216686
+Homepage: https://www.x.org
+Description: FIXME:Add description
+
+Package: libdrm-dev
+Architecture: aarch64
+Version: 2.4.80-1
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 596
+Depends: libdrm
+Filename: dists/extras/main/binary-aarch64/libdrm-dev_2.4.80-1_aarch64.deb
+Size: 90236
+MD5sum: c9e47e777905b449f391be5663ca679a
+SHA1: d96f64e5f281eac5d020c85e818bfb966404a2eb
+SHA256: 6ab9638046695e53eae4364072dd6869360c6e89c60c7ef1908dffcbaf2666f0
+SHA512: 34c810e5fedff0316b15675c9d1d37c2cd622ed80d0db29730c26ab01e55e96f433f57694815f4c31bc2274248097b3f76cacec0f5822fc2f2844021597f29ba
+Homepage: http://dri.freedesktop.org
+Description: Development files for libdrm
+
+Package: libxfconf
+Architecture: aarch64
+Version: 4.12.1
+Maintainer: Lokesh @hax4us
+Depends: libdbus, glib, libdbus-glib, libxfce4util
+Filename: dists/extras/main/binary-aarch64/libxfconf_4.12.1_aarch64.deb
+Size: 175924
+MD5sum: c3e8c6983f6f21361c60b3a79c78ecc9
+SHA1: eb67bf530a7066cfb660afc2d5d65acdb9a89de7
+SHA256: a4b37a8be0a530fc5549116176d519544224bdc95c4b0751f7d6474c9aa663f1
+SHA512: d4511c637233c36e1e2ac71d6d367a37946ed18e7f60574d565b77c6e31f7781c42354e15e3c1237627ef890bf32cf00a075415cc33bffd3c1643b7725c481b9
+Homepage: http://www.xfce.org/
+Description: utilities for managing settings in Xfce                                 xfconf contains xfconfd and xfconf-query.  - xfconfd handles the Xfce settings storage                                         - xfconf-query enables users to tune settings from command line
+
+Package: libsm
+Architecture: aarch64
+Version: 1.2.1
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 40
+Depends: libice, xorg-util-macros
+Filename: dists/extras/main/binary-aarch64/libsm_1.2.1_aarch64.deb
+Size: 9508
+MD5sum: 8e52f4eb9187f3276d4a0ac1f6e0252b
+SHA1: d1ef993ba08de1d4f640a9f0e9b0ec5866796da4
+SHA256: 1ff1bf511811e7e1e7a43292dee9c8713fb737021d69a815d18bc869527a2165
+SHA512: 9b581305cee17da052514527b80babae89922c8ca91e488284080c30b6216ab24867a3bd2f50dc0dc62dd7267174d37508527aa4ac34fb38e1839efa626082bb
+Homepage: https://www.x.org
+Description: X11 Session Management library
+
+Package: libxcb
+Architecture: aarch64
+Version: 1.12
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 660
+Depends: xcbproto, libxau, xorg-util-macros
+Filename: dists/extras/main/binary-aarch64/libxcb_1.12_aarch64.deb
+Size: 74408
+MD5sum: ff6697e4b89671abac5e0d3dc9e90360
+SHA1: e8636b78aa93c74869e0e17fac54b31a2706a6cf
+SHA256: 1eef698c3c986feebf1ad07ed8dcf34292aba576297f4f739b5486667cd11014
+SHA512: 60d20c4619b0eff819c1eb34cd50087e212f8db525050a2e6d28bbd518f6dab85e71599b6afc155e1e9739b708d21987087d595e94e62c3beccee9cb678408c0
+Homepage:
+Description: X11 client-side library
+
+Package: xterm
+Architecture: aarch64
+Version: 330-1
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 972
+Depends: fontconfig-utils, libxaw, libxft, libxkbfile, luit, ncurses, xbitmaps, xorg-fonts-lite
+Filename: dists/extras/main/binary-aarch64/xterm_330-1_aarch64.deb
+Size: 252968
+MD5sum: 0aaf9529922fbffc08deb47516420dbf
+SHA1: d6eac9c8265d31ddcdd873ea8e85041f46f4d8a2
+SHA256: 0a3a328e242513d17a21c0ad5a5fdd35dc511862320a0a5b447cd01e7d2a317f
+SHA512: d2377f85ee690bfd4994c491a39c8c44c07cd637031f88504c808700f599be629325a377f9b748969fa0b9074c8b22ba1a1408eb1c94d6be3051041e84b437cd
+Homepage: http://invisible-island.net/xterm/
+Description: X Terminal Emulator
+
+Package: libxaw-dev
+Architecture: aarch64
+Version: 1.0.13
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 444
+Depends: libxaw
+Filename: dists/extras/main/binary-aarch64/libxaw-dev_1.0.13_aarch64.deb
+Size: 41636
+MD5sum: b0375750d778042d93eb8dcb82a235ad
+SHA1: 57d1cf5d4aee3022b84efc3a0fdf851a2447d674
+SHA256: d499cbd5c6ee248a585dc70c274c303abc8bdffc3947155027353ab03083f824
+SHA512: 91a43aef76316542b86c0c4d871596b783a105e61e84099ed87557b0fb0e2d918cbde1e5d89d1297a85a7dd04ee442b0338d1e0631bd5a98efaca67cf69496a6
+Homepage: https://www.x.org
+Description: Development files for libxaw
+
+Package: xclock
+Architecture: aarch64
+Version: 1.0.7
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 68
+Depends: libx11, libxmu, libxaw, libxkbfile, libxrender, libxft, libandroid-support, xorg-util-macros
+Filename: dists/extras/main/binary-aarch64/xclock_1.0.7_aarch64.deb
+Size: 20680
+MD5sum: 723a3d2d68fb80cacc7c8caaca787cb4
+SHA1: f114ee9780fc3681618e4ae42dc66ad99b786dd5
+SHA256: 94d6c2d92b62b93706143f03a4ab307004ee6e9835417a9377d0780dad23e342
+SHA512: 22567c7c108c9600631947acd70b93bba852be856b04479159e1e0358650d29344bf7a0117da5bd2d87d9ce297b571507ae1a6db0028ff09670fd31c1db22491
+Homepage: https://www.x.org
+Description: FIXME:Add description
+
+Package: libxcursor
+Architecture: aarch64
+Version: 1.1.15
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 36
+Depends: libxfixes, libxrender, xorg-util-macros
+Filename: dists/extras/main/binary-aarch64/libxcursor_1.1.15_aarch64.deb
+Size: 12164
+MD5sum: 9e36caffa1946e0e102d56e63f6b68ad
+SHA1: 23d00d94e18d42cc3cc45695fb977bc640c2f0b1
+SHA256: 2706c4e3d52606408df00e152d7ab70d05b3ca168dc984042f9f77d701b3504e
+SHA512: 3aa01a76585285c4a784193580f96717653fb68621aa1ccf411c9123dcd4922a4ed3120989da7cfbb032b1ac8585018e66658e38bc561bd57e3e03911335258a
+Homepage: https://www.x.org
+Description: X cursor management library
+
+Package: pangoxft-dev
+Architecture: aarch64
+Version: 1.40.13-1
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 340
+Depends: pangoxft,libcairo-x-dev, libpixman-dev, fontconfig-dev, harfbuzz-dev
+Filename: dists/extras/main/binary-aarch64/pangoxft-dev_1.40.13-1_aarch64.deb
+Size: 42536
+MD5sum: d687292f0e4a54fc8a533e7d35f6f827
+SHA1: 1c9afbeba9a26e8140577dc6a7de393c63229972
+SHA256: 2715262d94b2822e07eaca33c6a2c7c826eb0916e4b982dbeb1f61b11ed546f4
+SHA512: 311b6bfcb9209acd197956f82becde940a0d25609d32a0c3000cf28b84caa30d35d978b23b647205879d5043f6466097619292146ee646f27877010ef3bd0e86
+Homepage: http://www.pango.org/
+Description: Development files for pangoxft
+
+Package: feh
+Architecture: aarch64
+Version: 2.22.2
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 324
+Depends: imlib2, libcurl, libexif, libxinerama, libxt
+Filename: dists/extras/main/binary-aarch64/feh_2.22.2_aarch64.deb
+Size: 119472
+MD5sum: fe44f994fd111c6d9c2b7cbdc2f4c85c
+SHA1: 82c36b11d08fb95c16e53e31c27a4c814162ad3d
+SHA256: b92989c0573093fabbd7d20dbc58f8792a27ace5d64ae7b70ad6658c86138276
+SHA512: 294abc30a9ace6056eb0e5945fab1ad46ba3a1447e542f5cac16777eb46e84de2ef406ed7a426fd23b487772f1faff5cb8d22ad400caaa3630c94c7f2d8fd6ee
+Homepage: https://feh.finalrewind.org/
+Description: Fast and light imlib2-based image viewer
+
+Package: xorg-fonts-lite
+Architecture: aarch64
+Version: 1.0-termux-1
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 18112
+Filename: dists/extras/main/binary-aarch64/xorg-fonts-lite_1.0-termux-1_aarch64.deb
+Size: 8339260
+MD5sum: f34f4a635e4de1a9467328e20998e465
+SHA1: e0e1a8aeb330a547aa261ee6f7922cb6581746bf
+SHA256: 5810b3c8ff9f914f97e233c3e58fc6ee4157334d0ec19cfbcc493486fc0da41a
+SHA512: 403cf53f9c392ecebf0fbd2b7d105ddc43b241534fd69be4ee0a021967b7b0d34aca01f0f726bb3f0ae964de20a8debb94212bbc1cbc30f6e563126d6fc5232d
+Homepage: http://openbox.org
+Description: Fonts for X server (only basic)
+
+Package: libxkbfile-dev
+Architecture: aarch64
+Version: 1.0.9
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 52
+Depends: libxkbfile
+Filename: dists/extras/main/binary-aarch64/libxkbfile-dev_1.0.9_aarch64.deb
+Size: 7640
+MD5sum: 9784926f0aff9969e56a9a23153b6fac
+SHA1: 30cdbec87403c2fe9bfd2d79632a07ec6b490e2f
+SHA256: da9058ba0c5c20fd8968c4b650558ae1a425827c32950d09d8e137b17aaf7ed9
+SHA512: 49e56402e1b08b286af8935222c53cca26dc6404fcad18c8aefd54611d47e6c6bffae348dc9624b76790aa5087f12006c4800cb3bb005ed3b20db9285d873228
+Homepage:
+Description: Development files for libxkbfile
+
+Package: libsdl
+Architecture: aarch64
+Version: 1.2.15-1
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 304
+Depends: libx11, libxext, libxrender, pulseaudio
+Filename: dists/extras/main/binary-aarch64/libsdl_1.2.15-1_aarch64.deb
+Size: 101352
+MD5sum: 884b1c7e2046cbe954a26b209365b27d
+SHA1: 03d90ee062adf81db1891c34afd0aa9d57768208
+SHA256: 201549c7605931a559a25e89108b92da5f02d38e8a0fcac1cd7c8b3c5cd131cb
+SHA512: 8437a9ebefdbacfd3e04bef73539469c1f11165125e1560aa52ef19bb26ee71ad87d67c47003620e1d70797a660391538c0aa7535c38fae10e0c95a7b680171c
+Homepage: https://www.libsdl.org
+Description: A library for portable low-level access to a video framebuffer, audio output, mouse, and keyboard
+
+Package: fltk-editor
+Architecture: aarch64
+Version: 1.0-termux-1
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 36
+Depends: fltk
+Filename: dists/extras/main/binary-aarch64/fltk-editor_1.0-termux-1_aarch64.deb
+Size: 7936
+MD5sum: 573f555ffe6f09789b3e0610dccb569e
+SHA1: 291117e7b5e8e5eb9ebdfcc780b2ec74b3d2ce60
+SHA256: 72388650540cfaf224a77549b3d140fc54e38e5c40d3d54efbd13f3ca6f1befa
+SHA512: ccee7da670d5370dcf316e68bc0c1f8446df06dc553ed233b7ff1294a1e857e19b013c2fff7f0f573455df8cdfaed262f4c7a82f27d10ac03af61f5b16c81f0a
+Homepage:
+Description: Simple text editor
+
+Package: libdbus-dev
+Architecture: aarch64
+Version: 1.12.2
+Maintainer: Lokesh @hax4us
+Depends: libdbus, pkg-config
+Filename: dists/extras/main/binary-aarch64/libdbus-dev_1.12.2_aarch64.deb
+Size: 22656
+MD5sum: 42bcfb3680220a08cdb5402a5359c14c
+SHA1: d6e9dc6e10a0d8140e5226c714328e4ccb9d5372
+SHA256: c0c69e551b59889eb16fa99b16302bb072e81a44b406f39f54cb2943fd436267
+SHA512: b201cfdf10ab4e6741b97b0e99b1b554f619963f8dd842831fed2baae05b009e7acf0ab4e0d38abcc045fa7b439532f00811d26b587787b9d549b2fa76639f9f
+Description: D-Bus is a message bus system, a simple way for applications to talk to one another. D-Bus supplies both a system daemon (for events such as “new hardware device added” or “printer queue changed”) and a per-user-login-session daemon (for general IPC needs among user applications). Also, the message bus is built on top of a general one-to-one message passing framework, which can be used by any two applications to communicate directly (without going through the message bus daemon). This package contains header files.
+
+Package: libxfce4ui-dev
+Architecture: aarch64
+Version: 4.12.1
+Maintainer: Lokesh<lokesh@hax4us.com> @hax4us
+Depends: libxfce4ui, libgtk2-dev, libxfce4util-dev, libxfconf-dev
+Filename: dists/extras/main/binary-aarch64/libxfce4ui-dev_4.12.1_aarch64.deb
+Size: 29424
+MD5sum: 03b6623f9d2e1ab1323238fc534fba56
+SHA1: 9b9c8a8dcc14831744bc180d3213838baa3b7144
+SHA256: de0a50fcdfe3d2519308465eb086ba4919dddde4afc637e5a1f2ab61e7ab8102
+SHA512: 782da50b49e07eee788d50c51606b7d3b611a7df84df00b392cbf5875a17396d7641a9cb36f596c2e6c0ae97a017fcabee18a0af61ee214e27ccdbc3beab5a33
+Homepage: http://www.xfce.org/
+Description: Development files for libxfce4ui - Gtk+2 variant                        This package contains the headers and the static library                            for libxfce4ui.
+
+Package: startup-notification-dev
+Architecture: aarch64
+Version: 0.12
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 32
+Depends: startup-notification
+Filename: dists/extras/main/binary-aarch64/startup-notification-dev_0.12_aarch64.deb
+Size: 3944
+MD5sum: 3c808b698c033ba7188ddb5ca54ac7a4
+SHA1: 89489074a7c62a50d029f280bed0057aac8f187d
+SHA256: 30cfdb845f2be2c15931e2d4b69857a3eb0f239f6dae2ebde49922421f063e4c
+SHA512: e999eca7780a207764aa97e4bfadfac92b4c9cd0253de72ec2248ac8fb73a8e61dbbb4dae5c556f566154f5bd703b5e4782a76bd49283131c4d33ab924a50d52
+Homepage: https://www.freedesktop.org
+Description: Development files for startup-notification
+
+Package: libfontenc
+Architecture: aarch64
+Version: 1.1.3
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 36
+Depends: fontutil, x11-proto
+Filename: dists/extras/main/binary-aarch64/libfontenc_1.1.3_aarch64.deb
+Size: 8500
+MD5sum: 7f589e977fa32d1bfdcc168fc272249c
+SHA1: 7130d0dfa762322023130ed9097744cf31578df4
+SHA256: 26c5325a854dcc0b238a6a95a58c72aa894ffdb2d0c45f44b856e3e952d48d3d
+SHA512: 95473bb95e3ed4b5801b5176442d6cfe8f827ca974351c23ac4bd9e9880843286d62c47288afa12c85c058ed0d6963441e355dd22923f723c128c234b8971504
+Homepage: https://www.x.org
+Description: X11 font encoding library
+
+Package: libxfont2
+Architecture: aarch64
+Version: 2.0.3
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 172
+Depends: freetype, x11-proto, libfontenc, xtrans, xorg-util-macros
+Filename: dists/extras/main/binary-aarch64/libxfont2_2.0.3_aarch64.deb
+Size: 78432
+MD5sum: 8af499246396a22689b59190170d33e7
+SHA1: 13e8cc7c54fce205c86b5de74c9b2a2f8705e5d5
+SHA256: ec1da7241bf0b3fcf73696fe630c3b112186b2b7d040b4d60827e67aec2c4dc0
+SHA512: 9542ae041ea263f6485980350f483852d9d40fa9846489faca0cf984df8a1d1d56aec6ae99b8ca58eb3bef259cc58377d45fd2d938bba86f0cf204d848cc09e2
+Homepage:
+Description: X11 font rasterisation library
+
+Package: libdbus-glib-dev
+Architecture: aarch64
+Version: 0.108
+Maintainer: Lokesh @hax4us
+Depends: libdbus, libdbus-dev, libdbus-glib, glib, libexpat-dev, glib-dev, pkg-config
+Filename: dists/extras/main/binary-aarch64/libdbus-glib-dev_0.108_aarch64.deb
+Size: 41172
+MD5sum: 54cb2dbb42ee307b384ad1500323adfc
+SHA1: 6a22b88a9b00bb6bbcb776d736b54f0b42192e9f
+SHA256: 69bb07de5dd4c1260c8a19532bea8832557822c8826b7f4893f77e6bd005c309
+SHA512: 7681d4c5ad5265255ad42a33d2bad4d71441d2bdb855ad6b12feeca2ed4f7ab1501b0d24c50c01e4a1d049d432086fe86971fc6d2c16ad409bdef0f56b60c7a8
+Description: simple interprocess messaging system (GLib interface) D-Bus is a message bus, used for sending messages between applications. Conceptually, it fits somewhere in between raw sockets and CORBA in terms of complexity. This package provides development files for a deprecated GLib-based D-Bus library. New code should se GDBus, part of GLib, instead.
+
+Package: libxfixes
+Architecture: aarch64
+Version: 5.0.3
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 32
+Depends: xorg-util-macros, libx11
+Filename: dists/extras/main/binary-aarch64/libxfixes_5.0.3_aarch64.deb
+Size: 5232
+MD5sum: daf30d56ae5dcbd15f00dd01083bd1b3
+SHA1: 9a5303379c4a722161be66628ced71a0e8af4b70
+SHA256: ed43a3f202f0eeba3a87dc732f6bf7cdb55605f23a7a9a0a1c339019c6dffe8f
+SHA512: 59faf02650bcf5677ff784bd9351ce44992ab4793b039d43384a2f2b8bf710372a7c30f96901c4ba6550eb03ff6e326ff327cc303ed084468464bda8f09ab0aa
+Homepage: https://www.x.org
+Description: FIXME:Add description
+
+Package: libgtk3-dev
+Architecture: aarch64
+Version: 3.22.26-13
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 3008
+Depends: libgtk3
+Filename: dists/extras/main/binary-aarch64/libgtk3-dev_3.22.26-13_aarch64.deb
+Size: 240736
+MD5sum: b23af6e0c26baac9026b32f9080d7038
+SHA1: beafc2a355a7866b7cf303748dc1f39010822941
+SHA256: 7221e46eae1b46ec49fd225c29f9fe3a2207875592245809c53f167e388ee95e
+SHA512: 8f7637f28171d7365b8809b2cf91b3c515fcc544c5b3d96778d957a535b3b4a7bf80ea736ec5048b06e6404d5bd940aa56ba10aec2d9403d73ac4ccfaf6b7c19
+Homepage: http://www.gtk.org/
+Description: Development files for libgtk3
+
+Package: luit
+Architecture: aarch64
+Version: 1.1.1-1
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 52
+Depends: libfontenc, xorg-util-macros
+Filename: dists/extras/main/binary-aarch64/luit_1.1.1-1_aarch64.deb
+Size: 15440
+MD5sum: 567de2359ca32c61624076530b6890fd
+SHA1: 409cf5d021702ae3294f534175c191ba4ac18d17
+SHA256: c9a96a139440b448193693d77458c8cd5d458e61ea96e7b8862a94205a91b01d
+SHA512: 9ce716f012028a9063a25abd25956213388a23a8d2f4c141edf718508acb48cc0ce1aaa2880e936cd8df1106cf933278e81258f41648c2498e6e95025a9e9a6c
+Homepage: https://xorg.freedesktop.org/
+Description: Filter that can be run between an arbitrary application and a UTF-8 terminal emulator
+
+Package: libexo-dev
+Architecture: aarch64
+Version: 0.11.5
+Maintainer: Lokesh @hax4us
+Installed-Size: 268
+Depends: libexo
+Filename: dists/extras/main/binary-aarch64/libexo-dev_0.11.5_aarch64.deb
+Size: 13176
+MD5sum: 4bd0d7bde7f9dc041d27f05465f39dfc
+SHA1: 23f5b5d2d298aa2dc5e90911d45e8377a4bae6f3
+SHA256: 2f47ddf12a62d920631bca25d55d2821d5aa48a940da6893385c8725a1b7b953
+SHA512: 8b56192d614f3ee4999dd07b8192111c51fbd95bc536435af1ff0d29b8f9bbefe0d54fb3878dfe0cdb0a24ee6c6a2ff806cd0136a97aecb9c698b092394ef59d
+Description: Development files for libexo
+
+Package: libxfce4util
+Architecture: aarch64
+Version: 4.12.1
+Maintainer: Lokesh @hax4us
+Filename: dists/extras/main/binary-aarch64/libxfce4util_4.12.1_aarch64.deb
+Size: 49512
+MD5sum: a771c6abd7e46efb8f87bcaf81d81a03
+SHA1: ce350a47a2b0cb1c470cbcb5e86aa421dc283bf4
+SHA256: dbd7be8d707bc2b666d8aa8c7c0804b7e991d32598f85920162efbc6e440b1cb
+SHA512: 09c4e8700cee462abe4aebef4a5f21c1eda1880016c87ac7abb8ed5f971028b997b3ea25cc084239ae836b949b1ac3ba072fa946b4683a8eec38b4608c342d32
+Homepage: http://www.xfce.org/
+Description: tools for libxfce4util This package contains binaries used by Xfce basic utility library.
+ At the moment, the following programs are included:                                  - xfce4-kiosk-query: query Xfce kiosk capabilities.
+
+Package: libmesa-dev
+Architecture: aarch64
+Version: 17.1.4-3
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Installed-Size: 1404
+Depends: libmesa,ndk-sysroot-x
+Filename: dists/extras/main/binary-aarch64/libmesa-dev_17.1.4-3_aarch64.deb
+Size: 124600
+MD5sum: d72846ba8cfe732171b73fab4d87e6dc
+SHA1: 6db58ae31833bacd9866ba45b835b8a4d089d103
+SHA256: 08f1c5b7d2b712c69c30af7c976447fa94014906ddfe2d2240abe6c0fcfd43c8
+SHA512: a622fefdf17e63e42d21fc1e13740dce4320efe985730cfdaad66054085d8ee275f0121b1172a8da567af0ddd6432dc458a834af7ed0602c5764d9d65d53a33d
+Homepage: https://www.mesa3d.org
+Description: Development files for libmesa
+
+Package: xorg-xauth
+Architecture: aarch64
+Version: 1.0.10
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 56
+Depends: libxmu, xorg-util-macros
+Filename: dists/extras/main/binary-aarch64/xorg-xauth_1.0.10_aarch64.deb
+Size: 16888
+MD5sum: 62a6da86f27756503bcde70a92a52a9c
+SHA1: e05b68905f967b86275054fe1ed54b98e3e7fb22
+SHA256: 6c365a3befa1d03131a0c1f971f81ba689283aac49b471db9acd375c70cdd5bf
+SHA512: 56f2cc8882ab017c5155c490e9e33d17c1f8b0877a5c322295151e32ba966d8c1e2bba20cd14f1a7356ec02bf28fb7df500b0382821946d25fdcdc5830d2c66f
+Homepage: https://xorg.freedesktop.org
+Description: X.Org authorization settings program
+
+Package: libxt
+Architecture: aarch64
+Version: 1.1.3
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 300
+Depends: libx11, libsm, xorg-util-macros
+Filename: dists/extras/main/binary-aarch64/libxt_1.1.3_aarch64.deb
+Size: 96636
+MD5sum: 0f1060916522f3f9ce22917a57e503c4
+SHA1: ffa2bd205f66c6222c5a7d017cea35e8f2022cc3
+SHA256: a9ae5a5bbf7ccbd75ad1cfa0706b7286599190e6500db93803aab0da447437c8
+SHA512: 03c2acfbe833bc94aa64843a488db8846230a2ef09b1998cbd44743158b722cf0e353b6e8ca06e299d3ee1741a41e0ad7c02b16a8ad6094690fc4ad2dff2ffe9
+Homepage: https://www.x.org
+Description: X11 toolkit intrinsics library
+

@@ -1,0 +1,42 @@
+Package: xerosploit
+Architecture: all
+Version: 1.0
+Maintainer: Lokesh<lokesh@hax4us.com>@hax4us
+Installed-Size: 1408
+Depends: libpcap-dev, ruby-dev, hping3, libgmp-dev, clang, libllvm, make, python2-dev, wireless-tools
+Filename: dists/extras/main/binary-all/xerosploit_1.0_all.deb
+Size: 276268
+MD5sum: 8c9f32fae7ce2adb067b9185b3569593
+SHA1: 37b0b34452a637c295c06d8701f4a09684c3861d
+SHA256: 78c5e0b991ae4af43f26513f0aa0b565d300c2612c123f57a4295ebf05bf68fd
+SHA512: 9244f95f6e3dcef51600fd65f4bc38cd521c0867e6aa49ffe4f0152e2f634e114afdce7a8f3355eac6a1e9a3c45dc30be72ce5b21ebce3752044b9a3150d3fad
+Homepage: http://www.loinsec.net
+Description: Xerosploit is a penetration testing toolkit whose goal is to perform man in the middle attacks for testing purposes.
+
+Package: beef-xss
+Architecture: all
+Version: 0.4.7.0-alpha-1
+Maintainer: lokesh @hax4us
+Installed-Size: 21464
+Depends: make, clang, libllvm, termux-elf-cleaner, findutils, nodejs, ruby, ruby-dev, libsqlite-dev, libxslt, libxslt-dev
+Filename: dists/extras/main/binary-all/beef-xss_0.4.7.0-alpha-1_all.deb
+Size: 2671988
+MD5sum: 5df03923ada6b5d9b286d7005094bdf6
+SHA1: 4941faaa1acadad6e3efa3b4e3e492fb3bc7d98e
+SHA256: c1854b423cd0bc2fcb765f783eb0f64e305c596d9ad573cb78733b23c2ac123e
+SHA512: b7383a77f9beb22245c6ca8e6507256d4e43447be920d79d361f893f3ca4688514ad2f19437d625e292eaf9ae879834e82d9442ba76cd75587af625fd4f0aea5
+Description: BeEF is short for The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser.
+
+Package: intltool
+Architecture: all
+Version: 0.50.2
+Maintainer: Lokesh @hax4us
+Depends: perl, libxml-parser-perl
+Filename: dists/extras/main/binary-all/intltool_0.50.2_all.deb
+Size: 34368
+MD5sum: 1630e61857b4c7a9ef1eb93212390acc
+SHA1: 0fc2cc460f53a471b78c8466deb4282fcd7408f4
+SHA256: a1bbe899d73556ed8afb439c7b6ab596f6dd6ccf7eb105bdad5f750f0a8f159a
+SHA512: 8c3a10968c1d2a9f4ba0368d48323a8adb929f8e2e0d9b67d0d0f2f89e6726551f469f00d015a49c05c5dc35fd99e0873feb20543a24367afeaa86428a342d04
+Description: The Intltool is an internationalization tool used for extracting translatable strings from source files, collecting the extracted strings with messages from traditional source files (<source directory>/<package>/po) and merging the translations into .xml, .desktop and .oaf files.
+

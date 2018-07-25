@@ -1,0 +1,32 @@
+Package: libllvm
+Architecture: i686
+Version: 5.0.0
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 23668
+Depends: binutils, ncurses, ndk-sysroot, ndk-stl, libgcc
+Conflicts: gcc, clang (<< 3.9.1-3)
+Replaces: gcc
+Filename: dists/extras/main/binary-i686/libllvm_5.0.0_i686.deb
+Size: 5927540
+MD5sum: 9a8292b512c4727d04a38fa7ef814bdd
+SHA1: 6af12bf961f16e3ee2b3c0f112c08bec8389119e
+SHA256: f2972000bd86e9972d05d912425e9fdfae3bf90766f8d477b9d6a2fced7c227f
+SHA512: e874b3491a1b976d6d07d123581b8ee3181402f2cf8049ef29e68ded0fbc85511b754fc2e9ab1d81ef1cf08eccaed78751dc8a6d20838dab905710f1984c268c
+Homepage: http://clang.llvm.org/
+Description: Modular compiler and toolchain technologies library
+
+Package: clang
+Architecture: i686
+Version: 5.0.0
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 41392
+Depends: libllvm
+Filename: dists/extras/main/binary-i686/clang_5.0.0_i686.deb
+Size: 9684260
+MD5sum: 2d8216a56158f3b844d337d26ed148cf
+SHA1: 00620d127056220ce97e5b2e02df9cec50365314
+SHA256: 200aa4a5a0de9d863d609fd227cb114067ed77cad82134d0272612e73a307d36
+SHA512: f981c1b18bf7fd05cf197275262c68a54cbc861de316e8ec3261de667fac51efbb35ad2b2f2ba5e35fa433adceb3f6c531cf5473cf71964d61cc7590cc9f9a88
+Homepage: http://clang.llvm.org/
+Description: C language frontend for LLVM
+
