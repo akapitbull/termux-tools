@@ -1,3 +1,17 @@
+Package: bcal
+Architecture: aarch64
+Version: 1.9
+Maintainer: lokesh @hax4us
+Installed-Size: 204
+Depends: readline
+Filename: dists/extras/main/binary-aarch64/bcal_1.9_aarch64.deb
+Size: 38868
+MD5sum: 57afdfbc58e6d730e70d0b8b7b932698
+SHA1: c7c3532de4f5efe2f6c5edd8f598b19c8d121079
+SHA256: 4ef8fbdd2a04162acedeee05dffca41560965c17b5aa6a0725f895373668c014
+SHA512: 31da61b7ab17886e56c6c4dd821f9bac048d82b7f80cd0a6902306f167fc4f100ee57e6743d719c4faf79bcb6901757895c3ecf718a04ec3ba159b2dbfeedfbd
+Description: Storage expression calculator
+
 Package: libxfce4util-bin
 Architecture: aarch64
 Version: 4.12.1
@@ -55,6 +69,21 @@ SHA256: c504765216b73c5a01a9c33780ea6a7d37d63bb9a9b58e2067d00ceb29b5014c
 SHA512: 7648be1c2c282b171c08c056366be62322f29390f01d78692be6d946730fccf772596389b9ada8b8612fbc04bd5d98b118d60fad86694a98d0de666e4d4858bb
 Description: GTK+ graphical user interface library                                   GTK+ is a multi-platform toolkit for creating graphical user                        interfaces. Offering a complete set of widgets, GTK+ is suitable                    for projects ranging from small one-off tools to complete application               suites.                                   .                                         This package contains development files of gtk2.0 .
 
+Package: wireless-tools-dev
+Architecture: aarch64
+Version: 30pre9
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 60
+Depends: wireless-tools
+Filename: dists/extras/main/binary-aarch64/wireless-tools-dev_30pre9_aarch64.deb
+Size: 17284
+MD5sum: 5b6d3bfd3d40a2213758b624af483a13
+SHA1: 386a3fa7ebbc4d7aab5e44e747d282135b987a6e
+SHA256: 13fe6c27a7afde1fdfaf8969a82655c81eba4633c089932951130fdf0e3d0bd1
+SHA512: 49377eeda0a45baa33be8c2c9fa0f8f393bb27c94f81d7bbe49efae7d0727b2042a576522e9e8103527c02935a03c6ee9664afaf757a043875bbeb627d093c3a
+Homepage: https://hewlettpackard.github.io/wireless-tools/Tools.html
+Description: Development files for wireless-tools
+
 Package: thunar
 Architecture: aarch64
 Version: 1.7.0
@@ -82,6 +111,20 @@ SHA256: 20c2e0bf3039c6a2bc2443608ef4156d1e70fdc94c83448946b4be388e8094c6
 SHA512: 43c78459983790dc884be37031439a9ca0763c070954c24dc98f0144d6905aaf89ca5670238df09a4c2d3c9cd179c990de4d03c8e427817c6fb4f2c5ffc756c8
 Homepage: http://www.xfce.org/
 Description: Xfce terminal emulator        This package contains Terminal, which is a lightweight and easy to use              terminal emulator for X11. It was created to fit nicely into the Xfce               desktop environment, but it also fits nice with other environments.                 .                                         For people who already know GNOME 2 terminal and are searching for a                lighter but comparable replacement, Terminal
+
+Package: wireless-tools
+Architecture: aarch64
+Version: 30pre9
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 316
+Filename: dists/extras/main/binary-aarch64/wireless-tools_30pre9_aarch64.deb
+Size: 61864
+MD5sum: ea11908026a693f3b34eb913ee445e85
+SHA1: 5e22d8eec377496dee420f961e3575e0894378e3
+SHA256: c6c006cfc8101845c75cd467d8f0562652b3a0be4bfdaceda7cb045fee2a4e6b
+SHA512: 322036b92bca9b816927b046e70607cd402c8e5e64fc72336347bfba1dc6b4124db28935daf9fd3257ef2933012a1627b8c8166e6f7b5767b000ddc1ae398516
+Homepage: https://hewlettpackard.github.io/wireless-tools/Tools.html
+Description: Tools allowing to manipulate the Wireless Extensions
 
 Package: libxfont2-dev
 Architecture: aarch64
@@ -195,6 +238,20 @@ SHA1: 0bc3222ecdd0bf46a4684b07c36c1fb1753c8113
 SHA256: 57769c9e6783ece100f88b342c7d9d4bddf0c2be2ac052a660bbbd0c4221c48b
 SHA512: 12aabc4daefe8085386aae9dfedffa847c6a7f6bbec11257b7b680e8700b185c52c95cd95e73c7addb35b16a64b1718e2ca971310fa2095d4dbaa728833b1052
 Description: hping is a command-line oriented TCP/IP packet assembler/analyzer.
+
+Package: gobject-introspection
+Architecture: aarch64
+Version: 1.56.1
+Maintainer: lokesh @hax4us
+Installed-Size: 12108
+Depends: python, flex, glib
+Filename: dists/extras/main/binary-aarch64/gobject-introspection_1.56.1_aarch64.deb
+Size: 1323436
+MD5sum: 3c7683d2d35a8e099bc1f10c0cf34714
+SHA1: bf23a27b8c6e627c56a13e48a3a1db7eb75d033f
+SHA256: a8e45ef42e0e3fd8815f2f14f7c1806a70ae63b98e318b1df2064a6d25c7fab6
+SHA512: a14b7690c0ca2dbbb6c90d3f6ee73882c29cee7bdf96f6158de4e8578cb81d3f27f98db8cd9083b020a2867497ee6fe0d4bfae5128ffbfad8b98585988172c3a
+Description: The GObject Introspection is used to describe the program APIs and collect them in a uniform, machine readable format
 
 Package: httrack
 Architecture: aarch64
